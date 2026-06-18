@@ -208,11 +208,11 @@
     "gold": 1,
     "maintenance": 1,
     "science": 1,
+    "cost": 100,
     "requiredTech": "Sports Science",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+10]% Healing for all friendly units",
-      "[+2] Happiness [in this city]"
+      "[+2] [Happiness] [in this city]"
     ]
   },
   {
@@ -224,7 +224,7 @@
     "requiredTech": "Analytics Department",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+15]% Science in all cities"
+      "[+15]% [Science] [in all cities]"
     ]
   },
   {
@@ -248,8 +248,8 @@
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+5] Culture in all cities",
-      "[+25]% Culture [in all cities]"
+      "[+5] [Culture] [in all cities]",
+      "[+25]% [Culture] [in all cities]"
     ]
   },
   {
@@ -261,8 +261,8 @@
     "requiredTech": "Broadcast Rights",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+1] Gold from Great Merchant points",
-      "Provides [3] Culture per Trade Route"
+      "[+1] [Gold] from each Trade Route",
+      "[+3] [Culture] from each Trade Route"
     ]
   },
   {
@@ -275,7 +275,6 @@
     "requiredTech": "Elite Academies",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+25]% Great People generation",
       "New [Civilian] units start with [5] XP [in this city]"
     ]
   },
@@ -287,8 +286,8 @@
     "requiredTech": "Corporate Hospitality",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+30]% Gold from international trade routes",
-      "[+2] Gold per Trade Route"
+      "[+30]% [Gold] from Trade Routes",
+      "[+2] [Gold] from each Trade Route"
     ]
   },
   {
@@ -301,7 +300,7 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "New [Military] units start with [20] XP [in this city]",
-      "[+10]% Production when building [Military] units"
+      "[+10]% Production when constructing [Military] units [in this city]"
     ]
   },
   {
@@ -313,8 +312,7 @@
     "requiredTech": "Shirt Sales",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+2] Gold from culture",
-      "Provides [2] Culture per Trade Route"
+      "[+2] [Culture] from each Trade Route"
     ]
   },
   {
@@ -326,8 +324,7 @@
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+1] Tourism from culture",
-      "[+20]% Culture [in all cities]"
+      "[+20]% [Culture] [in all cities]"
     ]
   },
   {
@@ -339,8 +336,8 @@
     "requiredTech": "Hospitality Suites",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+30]% Gold from all sources",
-      "[+2] Happiness [in all cities]"
+      "[+30]% [Gold]",
+      "[+2] [Happiness] [in all cities]"
     ]
   },
   {
@@ -351,7 +348,7 @@
     "requiredTech": "Basic Drills",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+15]% Production when building [Military] units"
+      "[+15]% Production when constructing [Military] units [in this city]"
     ]
   },
   {
@@ -363,8 +360,7 @@
     "requiredTech": "Scouting Network",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+20]% Experience gain for non-combat units",
-      "[+1] Science in all cities"
+      "[+1] [Science] [in all cities]"
     ]
   },
   {
@@ -376,8 +372,7 @@
     "requiredTech": "Security Theatre",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+25]% City Defense",
-      "[+2] Happiness when [2] Happiness below [0]"
+      "[+2] [Happiness] [in this city]"
     ]
   },
   {
@@ -389,8 +384,8 @@
     "requiredTech": "Ultra Coordination",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+3] Culture in all cities",
-      "[+2] Happiness in all cities"
+      "[+3] [Culture] [in all cities]",
+      "[+2] [Happiness] [in all cities]"
     ]
   }
 ]

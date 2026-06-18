@@ -179,6 +179,7 @@
   {
     "columnNumber": 6,
     "era": "Football League",
+    "buildingCost": "Medical Center",
     "techs": [
       {
         "name": "Shirt Sales",
