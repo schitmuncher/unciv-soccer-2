@@ -6,8 +6,7 @@
     "cost": 80,
     "uniques": [
       "Founds a new city <by consuming this unit>"
-    ],
-    "icon": "SettlerAtlas_256"
+    ]
   },
   {
     "name": "Groundstaff",
@@ -18,8 +17,7 @@
     "uniques": [
       "Can build [Land] improvements on tiles",
       "Automation is a primary action"
-    ],
-    "icon": "SettlerAtlas_256"
+    ]
   },
   {
     "name": "Youth Prospect",
@@ -27,8 +25,7 @@
     "movement": 3,
     "strength": 5,
     "cost": 30,
-    "requiredTech": "Sunday League",
-    "icon": "ScoutAtlas_256"
+    "requiredTech": "Sunday League"
   },
   {
     "name": "Car Park Hardman",
@@ -36,8 +33,7 @@
     "movement": 2,
     "strength": 10,
     "requiredTech": "Sunday League",
-    "cost": 50,
-    "icon": "SwordmanAtlas_256"
+    "cost": 50
   },
   {
     "name": "Stone Island Shithouse",
@@ -45,8 +41,7 @@
     "movement": 2,
     "strength": 20,
     "requiredTech": "Away Days",
-    "cost": 90,
-    "icon": "SwordmanAtlas_256"
+    "cost": 90
   },
   {
     "name": "Firm Leader",
@@ -54,8 +49,7 @@
     "movement": 2,
     "strength": 35,
     "requiredTech": "Firm Organization",
-    "cost": 160,
-    "icon": "SwordmanAtlas_256"
+    "cost": 160
   },
   {
     "name": "Ultra Capo",
@@ -66,8 +60,7 @@
     "cost": 280,
     "uniques": [
       "[+15]% Strength bonus for [Military] units within [2] tiles"
-    ],
-    "icon": "SwordmanAtlas_256"
+    ]
   },
   {
     "name": "Set-Piece Specialist",
@@ -76,8 +69,7 @@
     "strength": 8,
     "rangedStrength": 14,
     "requiredTech": "Offside Trap",
-    "cost": 80,
-    "icon": "ArcherAtlas_256"
+    "cost": 80
   },
   {
     "name": "The Physio",
@@ -89,8 +81,7 @@
       "All adjacent units heal [+15] HP when healing",
       "[+15] HP when healing",
       "Uncapturable"
-    ],
-    "icon": "SettlerAtlas_256"
+    ]
   },
   {
     "name": "Sweeper Keeper",
@@ -101,8 +92,7 @@
     "cost": 130,
     "uniques": [
       "[+33]% Strength <when defending>"
-    ],
-    "icon": "SwordmanAtlas_256"
+    ]
   },
   {
     "name": "The Pundit",
@@ -112,8 +102,7 @@
     "requiredTech": "Broadcast Rights",
     "uniques": [
       "Uncapturable"
-    ],
-    "icon": "SettlerAtlas_256"
+    ]
   },
   {
     "name": "SS Booster",
@@ -129,8 +118,7 @@
       "Can be added to [The Spaceship] in the Capital",
       "Limited to [3] per Civilization",
       "Only available <when [Scientific] Victory is enabled>"
-    ],
-    "icon": "SettlerAtlas_256"
+    ]
   },
   {
     "name": "SS Cockpit",
@@ -146,8 +134,7 @@
       "Can be added to [The Spaceship] in the Capital",
       "Limited to [1] per Civilization",
       "Only available <when [Scientific] Victory is enabled>"
-    ],
-    "icon": "SettlerAtlas_256"
+    ]
   },
   {
     "name": "SS Engine",
@@ -163,8 +150,7 @@
       "Can be added to [The Spaceship] in the Capital",
       "Limited to [1] per Civilization",
       "Only available <when [Scientific] Victory is enabled>"
-    ],
-    "icon": "SettlerAtlas_256"
+    ]
   },
   {
     "name": "SS Stasis Chamber",
@@ -180,7 +166,6 @@
       "Can be added to [The Spaceship] in the Capital",
       "Limited to [1] per Civilization",
       "Only available <when [Scientific] Victory is enabled>"
-    ],
-    "icon": "SettlerAtlas_256"
+    ]
   }
 ]

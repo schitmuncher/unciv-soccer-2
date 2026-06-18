@@ -27,9 +27,7 @@
       "Emirates Stadium",
       "Highbury",
       "Ashburton Grove"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Aston Villa",
@@ -59,9 +57,7 @@
       "Villa Park",
       "Bodymoor Heath",
       "Trinity Road"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Bournemouth",
@@ -91,9 +87,7 @@
       "Vitality Stadium",
       "Dean Court",
       "Fitness First Stadium"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Brentford",
@@ -123,9 +117,7 @@
       "Gtech Community Stadium",
       "Griffin Park",
       "Lionel Road"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Brighton",
@@ -155,9 +147,7 @@
       "Amex Stadium",
       "Withdean Stadium",
       "Goldstone Ground"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Chelsea",
@@ -187,9 +177,7 @@
       "Stamford Bridge",
       "Cobham",
       "Kingsmeadow"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Crystal Palace",
@@ -219,9 +207,7 @@
       "Selhurst Park",
       "Crystal Palace Park",
       "Copers Cope"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Everton",
@@ -251,9 +237,7 @@
       "Goodison Park",
       "Bramley Moore Dock",
       "Finch Farm"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Fulham",
@@ -283,9 +267,7 @@
       "Craven Cottage",
       "Motspur Park",
       "Riverside Stand"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Ipswich Town",
@@ -315,9 +297,7 @@
       "Portman Road",
       "Playford Road",
       "Cobbold Stand"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Leicester City",
@@ -347,9 +327,7 @@
       "King Power Stadium",
       "Filbert Street",
       "Seagrave"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Liverpool",
@@ -379,9 +357,7 @@
       "Anfield",
       "Melwood",
       "Kirkby"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Manchester City",
@@ -412,9 +388,7 @@
       "Etihad Stadium",
       "Maine Road",
       "City Football Academy"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Manchester United",
@@ -444,9 +418,7 @@
       "Old Trafford",
       "Carrington",
       "The Cliff"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Newcastle United",
@@ -476,9 +448,7 @@
       "St James Park",
       "Darsley Park",
       "Gallowgate"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Nottingham Forest",
@@ -508,9 +478,7 @@
       "City Ground",
       "Trent End",
       "Nigel Doughty Academy"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Southampton",
@@ -540,9 +508,7 @@
       "St Marys Stadium",
       "The Dell",
       "Staplewood"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Tottenham Hotspur",
@@ -573,9 +539,7 @@
       "Tottenham Hotspur Stadium",
       "White Hart Lane",
       "Hotspur Way"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "West Ham United",
@@ -605,9 +569,7 @@
       "London Stadium",
       "Upton Park",
       "Rush Green"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Wolverhampton Wanderers",
@@ -637,9 +599,7 @@
       "Molineux",
       "Compton Park",
       "Stan Cullis Stand"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Blackburn Rovers",
@@ -669,9 +629,7 @@
       "Ewood Park",
       "Brockhall",
       "Blackburn End"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Bristol City",
@@ -701,9 +659,7 @@
       "Ashton Gate",
       "Failand",
       "Bristol Sport HQ"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Burnley",
@@ -733,9 +689,7 @@
       "Turf Moor",
       "Gawthorpe",
       "Jimmy McIlroy Stand"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Cardiff City",
@@ -765,9 +719,7 @@
       "Cardiff City Stadium",
       "House of Sport",
       "Ninian Park"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Coventry City",
@@ -797,9 +749,7 @@
       "Coventry Building Society Arena",
       "Ryton",
       "Highfield Road"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Derby County",
@@ -829,9 +779,7 @@
       "Pride Park Stadium",
       "Moor Farm",
       "Baseball Ground"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Hull City",
@@ -861,9 +809,7 @@
       "MKM Stadium",
       "Bishop Burton",
       "Boothferry Park"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Leeds United",
@@ -893,9 +839,7 @@
       "Elland Road",
       "Thorp Arch",
       "Lowfields Tunnel"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Luton Town",
@@ -925,9 +869,7 @@
       "Kenilworth Road",
       "The Brache",
       "Oak Road End"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Middlesbrough",
@@ -957,9 +899,7 @@
       "Riverside Stadium",
       "Rockliffe Park",
       "Ayresome Park"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Millwall",
@@ -989,9 +929,7 @@
       "The Den",
       "Calmont Road",
       "Cold Blow Lane"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Norwich City",
@@ -1021,9 +959,7 @@
       "Carrow Road",
       "Colney",
       "The Barclay"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Oxford United",
@@ -1053,9 +989,7 @@
       "Kassam Stadium",
       "Oxford United Training Centre",
       "Manor Ground"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Plymouth Argyle",
@@ -1085,9 +1019,7 @@
       "Home Park",
       "Harpers Park",
       "Devonport End"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Portsmouth",
@@ -1117,9 +1049,7 @@
       "Fratton Park",
       "Copnor Road",
       "Roko Training Ground"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Preston North End",
@@ -1149,9 +1079,7 @@
       "Deepdale",
       "Euxton",
       "Invincibles Pavilion"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Queens Park Rangers",
@@ -1181,9 +1109,7 @@
       "Loftus Road",
       "Heston",
       "South Africa Road"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Sheffield United",
@@ -1213,9 +1139,7 @@
       "Bramall Lane",
       "Shirecliffe",
       "John Street Stand"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Sheffield Wednesday",
@@ -1245,9 +1169,7 @@
       "Hillsborough",
       "Middlewood Road",
       "Owlerton"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Stoke City",
@@ -1277,9 +1199,7 @@
       "bet365 Stadium",
       "Clayton Wood",
       "Victoria Ground"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Sunderland",
@@ -1309,9 +1229,7 @@
       "Stadium of Light",
       "Academy of Light",
       "Roker Park"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Swansea City",
@@ -1341,9 +1259,7 @@
       "Swansea.com Stadium",
       "Fairwood",
       "Vetch Field"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Watford",
@@ -1374,9 +1290,7 @@
       "Vicarage Road",
       "London Colney",
       "The Rookery"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "West Bromwich Albion",
@@ -1406,9 +1320,7 @@
       "The Hawthorns",
       "Walsall Training Ground",
       "Halfords Lane"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Barnsley",
@@ -1438,9 +1350,7 @@
       "Oakwell",
       "Barnsley FC Training Ground",
       "Pontefract Road End"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Birmingham City",
@@ -1470,9 +1380,7 @@
       "St Andrews",
       "Wast Hills",
       "Tilton Road"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Blackpool",
@@ -1502,9 +1410,7 @@
       "Bloomfield Road",
       "Squires Gate",
       "Kop Stand"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Bolton Wanderers",
@@ -1534,9 +1440,7 @@
       "Toughsheet Community Stadium",
       "Lostock",
       "Burnden Park"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Bristol Rovers",
@@ -1566,9 +1470,7 @@
       "Memorial Stadium",
       "The Quarters",
       "Eastville"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Burton Albion",
@@ -1598,9 +1500,7 @@
       "Pirelli Stadium",
       "St Georges Park",
       "Eton Park"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Cambridge United",
@@ -1630,9 +1530,7 @@
       "Abbey Stadium",
       "Bentley Road",
       "Newmarket Road End"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Charlton Athletic",
@@ -1662,9 +1560,7 @@
       "The Valley",
       "Sparrows Lane",
       "Covered End"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Crawley Town",
@@ -1694,9 +1590,7 @@
       "Broadfield Stadium",
       "The People\u2019s Pension Stadium",
       "Southgate Avenue"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Exeter City",
@@ -1726,9 +1620,7 @@
       "St James Park",
       "Cliff Hill",
       "Big Bank"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Huddersfield Town",
@@ -1758,9 +1650,7 @@
       "John Smiths Stadium",
       "Canalside",
       "Leeds Road"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Leyton Orient",
@@ -1790,9 +1680,7 @@
       "Brisbane Road",
       "The Matchroom Stadium",
       "SCORE Centre"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Lincoln City",
@@ -1822,9 +1710,7 @@
       "Sincil Bank",
       "Riseholme",
       "St Andrews Stand"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Mansfield Town",
@@ -1854,9 +1740,7 @@
       "One Call Stadium",
       "Radcliffe Gate",
       "Field Mill"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Northampton Town",
@@ -1886,9 +1770,7 @@
       "Sixfields Stadium",
       "Moulton College",
       "County Ground"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Peterborough United",
@@ -1919,9 +1801,7 @@
       "London Road",
       "Idverde Training Ground",
       "Peterborough Sports Hub"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Reading",
@@ -1951,9 +1831,7 @@
       "Select Car Leasing Stadium",
       "Bearwood Park",
       "Elm Park"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Rotherham United",
@@ -1983,9 +1861,7 @@
       "AESSEAL New York Stadium",
       "Roundwood",
       "Millmoor"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Shrewsbury Town",
@@ -2015,9 +1891,7 @@
       "New Meadow",
       "Sundorne Castle",
       "Gay Meadow"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Stevenage",
@@ -2047,9 +1921,7 @@
       "Lamex Stadium",
       "Shephalbury Park",
       "Broadhall Way"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Stockport County",
@@ -2079,9 +1951,7 @@
       "Edgeley Park",
       "Carrington Lane",
       "Cheadle End"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Wigan Athletic",
@@ -2111,9 +1981,7 @@
       "DW Stadium",
       "Christopher Park",
       "Springfield Park"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Wrexham",
@@ -2144,9 +2012,7 @@
       "Racecourse Ground",
       "Colliers Park",
       "Mold Road"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Wycombe Wanderers",
@@ -2176,9 +2042,7 @@
       "Adams Park",
       "Harlington",
       "Loakes Park"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Accrington Stanley",
@@ -2208,9 +2072,7 @@
       "Wham Stadium",
       "Moorhead Sports",
       "Crown Ground"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "AFC Wimbledon",
@@ -2240,9 +2102,7 @@
       "Plough Lane",
       "Roehampton Vale",
       "Kingsmeadow"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Barrow",
@@ -2272,9 +2132,7 @@
       "Holker Street",
       "Furness Building Society Stadium",
       "Little Wembley"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Bradford City",
@@ -2304,9 +2162,7 @@
       "Valley Parade",
       "Woodhouse Grove",
       "Midland Road"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Bromley",
@@ -2336,9 +2192,7 @@
       "Hayes Lane",
       "Bromley FC Training Ground",
       "Queensmead"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Carlisle United",
@@ -2368,9 +2222,7 @@
       "Brunton Park",
       "Creighton Rugby Club",
       "Warwick Road End"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Cheltenham Town",
@@ -2400,9 +2252,7 @@
       "Whaddon Road",
       "Cheltenham FC Training Ground",
       "Prestbury Road"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Chesterfield",
@@ -2432,9 +2282,7 @@
       "SMH Group Stadium",
       "Proact Stadium",
       "Saltergate"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Colchester United",
@@ -2464,9 +2312,7 @@
       "Colchester Community Stadium",
       "Florence Park",
       "Layer Road"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Crewe Alexandra",
@@ -2496,9 +2342,7 @@
       "Alexandra Stadium",
       "Reaseheath",
       "Gresty Road"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Doncaster Rovers",
@@ -2528,9 +2372,7 @@
       "Eco-Power Stadium",
       "Cantley Park",
       "Belle Vue"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Fleetwood Town",
@@ -2561,9 +2403,7 @@
       "Highbury Stadium",
       "Poolfoot Farm",
       "Fleetwood Memorial Park"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Gillingham",
@@ -2593,9 +2433,7 @@
       "Priestfield Stadium",
       "Be Priestfield Training Ground",
       "Redfern Avenue"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Grimsby Town",
@@ -2625,9 +2463,7 @@
       "Blundell Park",
       "Cheapside",
       "Cleethorpes End"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Harrogate Town",
@@ -2657,9 +2493,7 @@
       "Wetherby Road",
       "Rossett Sports Centre",
       "CNG Stadium"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Milton Keynes Dons",
@@ -2689,9 +2523,7 @@
       "Stadium MK",
       "Woughton on the Green",
       "National Hockey Centre"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Morecambe",
@@ -2721,9 +2553,7 @@
       "Mazuma Mobile Stadium",
       "Christie Park",
       "The Globe Arena"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Newport County",
@@ -2753,9 +2583,7 @@
       "Rodney Parade",
       "Spytty Park",
       "Newport International Sports Village"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Notts County",
@@ -2785,9 +2613,7 @@
       "Meadow Lane",
       "Clifton Training Ground",
       "Trent Navigation"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Port Vale",
@@ -2817,9 +2643,7 @@
       "Vale Park",
       "Clayton Wood",
       "The Railway Paddock"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Salford City",
@@ -2850,9 +2674,7 @@
       "Moor Lane",
       "Partington Sports Village",
       "The Peninsula Stadium"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Swindon Town",
@@ -2882,9 +2704,7 @@
       "County Ground",
       "Beversbrook",
       "Stratton Bank"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Tranmere Rovers",
@@ -2914,9 +2734,7 @@
       "Prenton Park",
       "Solar Campus",
       "Borough Road"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Walsall",
@@ -2946,9 +2764,7 @@
       "Bescot Stadium",
       "Banks's Stadium",
       "Essington Training Ground"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   },
   {
     "name": "Nantwich Town FC",
@@ -2978,8 +2794,6 @@
       "The Weaver Stadium",
       "Kingsley Fields",
       "Waterlode"
-    ],
-    "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    ]
   }
 ]
