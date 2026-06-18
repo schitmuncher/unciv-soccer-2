@@ -89,6 +89,150 @@
     "uniques": []
   },
   {
+    "name": "Kit Deals",
+    "era": "Grassroots",
+    "cost": 400,
+    "column": 3,
+    "row": 4,
+    "prerequisites": ["Local Sponsorships"],
+    "uniques": []
+  },
+  {
+    "name": "Firm Organization",
+    "era": "Grassroots",
+    "cost": 400,
+    "column": 3,
+    "row": 5,
+    "prerequisites": ["Basic Drills"],
+    "uniques": []
+  },
+  {
+    "name": "Offside Trap",
+    "era": "Grassroots",
+    "cost": 400,
+    "column": 3,
+    "row": 6,
+    "prerequisites": ["Basic Drills"],
+    "uniques": []
+  },
+  {
+    "name": "Pyro Culture",
+    "era": "Grassroots",
+    "cost": 400,
+    "column": 3,
+    "row": 7,
+    "prerequisites": ["Pub Meetups"],
+    "uniques": []
+  },
+  {
+    "name": "Transfer Window",
+    "era": "Professional",
+    "cost": 1000,
+    "column": 5,
+    "row": 4,
+    "prerequisites": ["Global Brand"],
+    "uniques": []
+  },
+  {
+    "name": "Global Branding",
+    "era": "Professional",
+    "cost": 1000,
+    "column": 5,
+    "row": 5,
+    "prerequisites": ["Total Football"],
+    "uniques": []
+  },
+  {
+    "name": "Park the Bus",
+    "era": "Professional",
+    "cost": 1000,
+    "column": 5,
+    "row": 6,
+    "prerequisites": ["Firm Organization"],
+    "uniques": []
+  },
+  {
+    "name": "Broadcast Rights",
+    "era": "Professional",
+    "cost": 1000,
+    "column": 5,
+    "row": 7,
+    "prerequisites": ["Global Brand"],
+    "uniques": []
+  },
+  {
+    "name": "Set-Piece Laboratories",
+    "era": "Professional",
+    "cost": 1000,
+    "column": 5,
+    "row": 8,
+    "prerequisites": ["Pro Coaching"],
+    "uniques": []
+  },
+  {
+    "name": "Stadium Hostility",
+    "era": "Professional",
+    "cost": 1000,
+    "column": 5,
+    "row": 9,
+    "prerequisites": ["Pyro Culture"],
+    "uniques": []
+  },
+  {
+    "name": "Ultra Coordination",
+    "era": "Professional",
+    "cost": 1500,
+    "column": 6,
+    "row": 4,
+    "prerequisites": ["Transfer Window"],
+    "uniques": []
+  },
+  {
+    "name": "Hospitality Suites",
+    "era": "Professional",
+    "cost": 1500,
+    "column": 6,
+    "row": 5,
+    "prerequisites": ["Park the Bus"],
+    "uniques": []
+  },
+  {
+    "name": "Matchday Choreography",
+    "era": "Professional",
+    "cost": 1500,
+    "column": 6,
+    "row": 6,
+    "prerequisites": ["Stadium Hostility"],
+    "uniques": []
+  },
+  {
+    "name": "Oil State Takeover",
+    "era": "Professional",
+    "cost": 1500,
+    "column": 6,
+    "row": 7,
+    "prerequisites": ["Broadcast Rights"],
+    "uniques": []
+  },
+  {
+    "name": "Elite Academies",
+    "era": "Professional",
+    "cost": 1500,
+    "column": 6,
+    "row": 8,
+    "prerequisites": ["Set-Piece Laboratories"],
+    "uniques": []
+  },
+  {
+    "name": "Security Theatre",
+    "era": "Professional",
+    "cost": 1500,
+    "column": 6,
+    "row": 9,
+    "prerequisites": ["Stadium Hostility"],
+    "uniques": []
+  },
+  {
     "name": "Sports Washing",
     "era": "Professional",
     "cost": 1000,

@@ -112,7 +112,6 @@
     ],
     "uniques": [
       "Rough terrain",
-      "[+5] Strength",
       "Has an elevation of [1] for visibility calculations"
     ]
   },

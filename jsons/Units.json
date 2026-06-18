@@ -42,5 +42,13 @@
     "strength": 35,
     "requiredTech": "Ultra Culture",
     "cost": 150
+  },
+  {
+    "name": "Ultra Capo",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 45,
+    "requiredTech": "Ultra Culture",
+    "cost": 200
   }
 ]

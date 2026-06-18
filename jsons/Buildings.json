@@ -3,37 +3,37 @@
     "name": "Dodgy Burger Van",
     "requiredTech": "Sunday League",
     "cost": 40,
-    "uniques": ["[+2] [Food]"]
+    "uniques": ["[+2 Food]"]
   },
   {
     "name": "Local Boozer",
     "requiredTech": "Pub Meetups",
     "cost": 60,
-    "uniques": ["[+2] [Faith]"]
+    "uniques": ["[+2 Faith]"]
   },
   {
     "name": "Training Pitch",
     "requiredTech": "Basic Drills",
     "cost": 80,
-    "uniques": ["[+2] [Production]", "[+15]% [Production] when building [Military] units"]
+    "uniques": ["[+2 Production]", "[+15]% [Production] when building [Military] units"]
   },
   {
     "name": "Club Shop",
     "requiredTech": "Local Sponsorships",
     "cost": 100,
-    "uniques": ["[+2] [Gold]"]
+    "uniques": ["[+2 Gold]"]
   },
   {
     "name": "Hospitality Box",
     "requiredTech": "Corporate Hospitality",
     "cost": 200,
-    "uniques": ["[+4] [Gold]", "[+1] [Culture]"]
+    "uniques": ["[+4 Gold]", "[+1 Culture]"]
   },
   {
     "name": "State-of-the-Art Academy",
     "requiredTech": "Total Football",
     "cost": 300,
-    "uniques": ["[+5] [Science]", "[+15] XP for all [Military] units built in this city"]
+    "uniques": ["[+5 Science]", "[+15] XP for all [Military] units built in this city"]
   },
   {
     "name": "The Megastore",
@@ -51,6 +51,24 @@
     "name": "VAR Room",
     "requiredTech": "VAR Implementation",
     "cost": 600,
-    "uniques": ["[+50]% City Defense", "[+10] [Science]"]
+    "uniques": ["[+50]% City Defense", "[+10 Science]"]
+  },
+  {
+    "name": "Apollo Program",
+    "requiredTech": "The Super League",
+    "cost": 5000,
+    "uniques": ["Spaceship part", "Can only be built in the capital"]
+  },
+  {
+    "name": "Utopia Project",
+    "requiredTech": "Pyro Displays",
+    "cost": 4000,
+    "uniques": ["Can only be built in the capital"]
+  },
+  {
+    "name": "Wembley Stadium",
+    "requiredTech": "The Super League",
+    "cost": 3000,
+    "uniques": ["[+30] [Culture]"]
   }
 ]
