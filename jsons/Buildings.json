@@ -112,7 +112,7 @@
     "maintenance": 2,
     "requiredTech": "Stadium Hostility",
     "uniques": [
-      "[+33]% Strength for cities <when defending>"
+      "[+33]% Strength <when defending>"
     ],
     "icon": "BuildingAtlas_256"
   },

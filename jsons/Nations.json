@@ -213,7 +213,7 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "Holmesdale Noise",
     "uniques": [
-      "[+33]% Strength for cities <when defending>"
+      "[+33]% Strength <when defending>"
     ],
     "cities": [
       "Selhurst Park",
@@ -919,7 +919,7 @@
     "preferredVictoryType": "Cultural",
     "uniqueName": "Kenilworth Grit",
     "uniques": [
-      "[+33]% Strength for cities <when defending>"
+      "[+33]% Strength <when defending>"
     ],
     "cities": [
       "Kenilworth Road",
@@ -1271,7 +1271,7 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "Cold Tuesday Nights",
     "uniques": [
-      "[+33]% Strength for cities <when defending>"
+      "[+33]% Strength <when defending>"
     ],
     "cities": [
       "bet365 Stadium",
@@ -1592,7 +1592,7 @@
     "preferredVictoryType": "Cultural",
     "uniqueName": "Brewers Backbone",
     "uniques": [
-      "[+33]% Strength for cities <when defending>"
+      "[+33]% Strength <when defending>"
     ],
     "cities": [
       "Pirelli Stadium",
@@ -1977,7 +1977,7 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "Miller's Grit",
     "uniques": [
-      "[+33]% Strength for cities <when defending>"
+      "[+33]% Strength <when defending>"
     ],
     "cities": [
       "AESSEAL New York Stadium",
@@ -2202,7 +2202,7 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "Wham Wall",
     "uniques": [
-      "[+33]% Strength for cities <when defending>"
+      "[+33]% Strength <when defending>"
     ],
     "cities": [
       "Wham Stadium",
@@ -2747,7 +2747,7 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "Exile Endurance",
     "uniques": [
-      "[+33]% Strength for cities <when defending>"
+      "[+33]% Strength <when defending>"
     ],
     "cities": [
       "Rodney Parade",
