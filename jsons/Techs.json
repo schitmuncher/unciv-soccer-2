@@ -1,411 +1,163 @@
 [
   {
-    "columnNumber": 0,
+    "name": "Sunday League",
     "era": "Grassroots",
-    "techs": [
-      {
-        "name": "Sunday League",
-        "cost": 0,
-        "row": 2,
-        "uniques": []
-      }
-    ]
+    "cost": 150,
+    "column": 1,
+    "row": 2,
+    "uniques": []
   },
   {
-    "columnNumber": 1,
+    "name": "Local Sponsorships",
     "era": "Grassroots",
-    "techs": [
-      {
-        "name": "Local Sponsorships",
-        "cost": 35,
-        "row": 1,
-        "prerequisites": [
-          "Sunday League"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Basic Drills",
-        "cost": 35,
-        "row": 2,
-        "prerequisites": [
-          "Sunday League"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Pub Meetups",
-        "cost": 35,
-        "row": 3,
-        "prerequisites": [
-          "Sunday League"
-        ],
-        "uniques": []
-      }
-    ]
+    "cost": 250,
+    "column": 2,
+    "row": 1,
+    "prerequisites": ["Sunday League"],
+    "uniques": []
   },
   {
-    "columnNumber": 2,
+    "name": "Basic Drills",
     "era": "Grassroots",
-    "techs": [
-      {
-        "name": "Kit Deals",
-        "cost": 70,
-        "row": 1,
-        "prerequisites": [
-          "Local Sponsorships"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Pro Coaching",
-        "cost": 70,
-        "row": 2,
-        "prerequisites": [
-          "Basic Drills"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Away Days",
-        "cost": 70,
-        "row": 3,
-        "prerequisites": [
-          "Pub Meetups"
-        ],
-        "uniques": []
-      }
-    ]
+    "cost": 250,
+    "column": 2,
+    "row": 2,
+    "prerequisites": ["Sunday League"],
+    "uniques": []
   },
   {
-    "columnNumber": 3,
-    "era": "Non-League",
-    "techs": [
-      {
-        "name": "Corporate Hospitality",
-        "cost": 120,
-        "row": 1,
-        "prerequisites": [
-          "Kit Deals"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Offside Trap",
-        "cost": 120,
-        "row": 2,
-        "prerequisites": [
-          "Pro Coaching"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Pyro Culture",
-        "cost": 120,
-        "row": 3,
-        "prerequisites": [
-          "Away Days"
-        ],
-        "uniques": []
-      }
-    ]
+    "name": "Pub Meetups",
+    "era": "Grassroots",
+    "cost": 250,
+    "column": 2,
+    "row": 3,
+    "prerequisites": ["Sunday League"],
+    "uniques": []
   },
   {
-    "columnNumber": 4,
-    "era": "Non-League",
-    "techs": [
-      {
-        "name": "Transfer Window",
-        "cost": 175,
-        "row": 1,
-        "prerequisites": [
-          "Corporate Hospitality"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Park the Bus",
-        "cost": 175,
-        "row": 2,
-        "prerequisites": [
-          "Offside Trap"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Firm Organization",
-        "cost": 175,
-        "row": 3,
-        "prerequisites": [
-          "Pyro Culture"
-        ],
-        "uniques": []
-      }
-    ]
+    "name": "Corporate Hospitality",
+    "era": "Grassroots",
+    "cost": 400,
+    "column": 3,
+    "row": 1,
+    "prerequisites": ["Local Sponsorships"],
+    "uniques": []
   },
   {
-    "columnNumber": 5,
-    "era": "Football League",
-    "techs": [
-      {
-        "name": "Broadcast Rights",
-        "cost": 240,
-        "row": 1,
-        "prerequisites": [
-          "Transfer Window"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Set-Piece Laboratories",
-        "cost": 240,
-        "row": 2,
-        "prerequisites": [
-          "Park the Bus"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Stadium Hostility",
-        "cost": 240,
-        "row": 3,
-        "prerequisites": [
-          "Firm Organization"
-        ],
-        "uniques": []
-      }
-    ]
+    "name": "Pro Coaching",
+    "era": "Grassroots",
+    "cost": 400,
+    "column": 3,
+    "row": 2,
+    "prerequisites": ["Basic Drills"],
+    "uniques": []
   },
   {
-    "columnNumber": 6,
-    "era": "Football League",
-    "buildingCost": "Medical Center",
-    "techs": [
-      {
-        "name": "Shirt Sales",
-        "cost": 320,
-        "row": 1,
-        "prerequisites": [
-          "Broadcast Rights"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Sports Science",
-        "cost": 320,
-        "row": 2,
-        "prerequisites": [
-          "Set-Piece Laboratories"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Sweeper Keeper School",
-        "cost": 320,
-        "row": 3,
-        "prerequisites": [
-          "Stadium Hostility"
-        ],
-        "uniques": []
-      }
-    ]
+    "name": "Away Days",
+    "era": "Grassroots",
+    "cost": 400,
+    "column": 3,
+    "row": 3,
+    "prerequisites": ["Pub Meetups"],
+    "uniques": []
   },
   {
-    "columnNumber": 7,
-    "era": "Football League",
-    "techs": [
-      {
-        "name": "Scouting Network",
-        "cost": 420,
-        "row": 1,
-        "prerequisites": [
-          "Shirt Sales"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Pressing Triggers",
-        "cost": 420,
-        "row": 2,
-        "prerequisites": [
-          "Sports Science"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Marching Columns",
-        "cost": 420,
-        "row": 3,
-        "prerequisites": [
-          "Sweeper Keeper School"
-        ],
-        "uniques": []
-      }
-    ]
+    "name": "Global Brand",
+    "era": "Grassroots",
+    "cost": 650,
+    "column": 4,
+    "row": 1,
+    "prerequisites": ["Corporate Hospitality"],
+    "uniques": []
   },
   {
-    "columnNumber": 8,
-    "era": "Premier Era",
-    "techs": [
-      {
-        "name": "Global Branding",
-        "cost": 540,
-        "row": 1,
-        "prerequisites": [
-          "Scouting Network"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Gegenpressing",
-        "cost": 540,
-        "row": 2,
-        "prerequisites": [
-          "Pressing Triggers"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Ultra Coordination",
-        "cost": 540,
-        "row": 3,
-        "prerequisites": [
-          "Marching Columns"
-        ],
-        "uniques": []
-      }
-    ]
+    "name": "Total Football",
+    "era": "Grassroots",
+    "cost": 650,
+    "column": 4,
+    "row": 2,
+    "prerequisites": ["Pro Coaching"],
+    "uniques": []
   },
   {
-    "columnNumber": 9,
-    "era": "Premier Era",
-    "techs": [
-      {
-        "name": "Hospitality Suites",
-        "cost": 680,
-        "row": 1,
-        "prerequisites": [
-          "Global Branding"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Total Football",
-        "cost": 680,
-        "row": 2,
-        "prerequisites": [
-          "Gegenpressing"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Matchday Choreography",
-        "cost": 680,
-        "row": 3,
-        "prerequisites": [
-          "Ultra Coordination"
-        ],
-        "uniques": []
-      }
-    ]
+    "name": "Ultra Culture",
+    "era": "Grassroots",
+    "cost": 650,
+    "column": 4,
+    "row": 3,
+    "prerequisites": ["Away Days"],
+    "uniques": []
   },
   {
-    "columnNumber": 10,
-    "era": "Premier Era",
-    "techs": [
-      {
-        "name": "Continental Tours",
-        "cost": 840,
-        "row": 1,
-        "prerequisites": [
-          "Hospitality Suites"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Analytics Department",
-        "cost": 840,
-        "row": 2,
-        "prerequisites": [
-          "Total Football"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Defensive Blocks",
-        "cost": 840,
-        "row": 3,
-        "prerequisites": [
-          "Matchday Choreography"
-        ],
-        "uniques": []
-      }
-    ]
+    "name": "Sports Washing",
+    "era": "Professional",
+    "cost": 1000,
+    "column": 5,
+    "row": 1,
+    "prerequisites": ["Global Brand"],
+    "uniques": []
   },
   {
-    "columnNumber": 11,
-    "era": "Super League",
-    "techs": [
-      {
-        "name": "Oil State Takeover",
-        "cost": 1020,
-        "row": 1,
-        "prerequisites": [
-          "Continental Tours"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Elite Academies",
-        "cost": 1020,
-        "row": 2,
-        "prerequisites": [
-          "Analytics Department"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Security Theatre",
-        "cost": 1020,
-        "row": 3,
-        "prerequisites": [
-          "Defensive Blocks"
-        ],
-        "uniques": []
-      }
-    ]
+    "name": "Gegenpressing",
+    "era": "Professional",
+    "cost": 1000,
+    "column": 5,
+    "row": 2,
+    "prerequisites": ["Total Football"],
+    "uniques": []
   },
   {
-    "columnNumber": 12,
-    "era": "Super League",
-    "techs": [
-      {
-        "name": "Global Franchise",
-        "cost": 1220,
-        "row": 1,
-        "prerequisites": [
-          "Oil State Takeover"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Multi-Club Model",
-        "cost": 1220,
-        "row": 2,
-        "prerequisites": [
-          "Elite Academies"
-        ],
-        "uniques": []
-      },
-      {
-        "name": "Fan Ownership Crackdown",
-        "cost": 1220,
-        "row": 3,
-        "prerequisites": [
-          "Security Theatre"
-        ],
-        "uniques": []
-      }
-    ]
+    "name": "Hooligan Firms",
+    "era": "Professional",
+    "cost": 1000,
+    "column": 5,
+    "row": 3,
+    "prerequisites": ["Ultra Culture"],
+    "uniques": []
+  },
+  {
+    "name": "Multi-Club Ownership",
+    "era": "Professional",
+    "cost": 1500,
+    "column": 6,
+    "row": 1,
+    "prerequisites": ["Sports Washing"],
+    "uniques": []
+  },
+  {
+    "name": "Set-Piece Analysts",
+    "era": "Professional",
+    "cost": 1500,
+    "column": 6,
+    "row": 2,
+    "prerequisites": ["Gegenpressing"],
+    "uniques": []
+  },
+  {
+    "name": "Pyro Displays",
+    "era": "Professional",
+    "cost": 1500,
+    "column": 6,
+    "row": 3,
+    "prerequisites": ["Hooligan Firms"],
+    "uniques": []
+  },
+  {
+    "name": "The Super League",
+    "era": "Professional",
+    "cost": 2500,
+    "column": 7,
+    "row": 1,
+    "prerequisites": ["Multi-Club Ownership"],
+    "uniques": []
+  },
+  {
+    "name": "VAR Implementation",
+    "era": "Professional",
+    "cost": 2500,
+    "column": 7,
+    "row": 2,
+    "prerequisites": ["Set-Piece Analysts"],
+    "uniques": []
   }
 ]

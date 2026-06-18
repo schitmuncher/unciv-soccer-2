@@ -4,32 +4,24 @@
     "unitType": "Civilian",
     "movement": 2,
     "cost": 80,
-    "uniques": [
-      "Founds a new city <by consuming this unit>"
-    ]
+    "uniques": ["Founds a new city"]
   },
   {
     "name": "Groundstaff",
     "unitType": "Civilian",
     "movement": 2,
-    "cost": 50,
-    "requiredTech": "Sunday League",
-    "uniques": [
-      "Can build [Land] improvements on tiles",
-      "Automation is a primary action"
-    ]
+    "cost": 50
   },
   {
     "name": "Youth Prospect",
     "unitType": "Scout",
     "movement": 3,
     "strength": 5,
-    "cost": 30,
-    "requiredTech": "Sunday League"
+    "cost": 30
   },
   {
     "name": "Car Park Hardman",
-    "unitType": "Melee",
+    "unitType": "Sword",
     "movement": 2,
     "strength": 10,
     "requiredTech": "Sunday League",
@@ -37,7 +29,7 @@
   },
   {
     "name": "Stone Island Shithouse",
-    "unitType": "Melee",
+    "unitType": "Sword",
     "movement": 2,
     "strength": 20,
     "requiredTech": "Away Days",
@@ -45,127 +37,10 @@
   },
   {
     "name": "Firm Leader",
-    "unitType": "Melee",
+    "unitType": "Sword",
     "movement": 2,
     "strength": 35,
-    "requiredTech": "Firm Organization",
-    "cost": 160
-  },
-  {
-    "name": "Ultra Capo",
-    "unitType": "Melee",
-    "movement": 2,
-    "strength": 52,
-    "requiredTech": "Ultra Coordination",
-    "cost": 280,
-    "uniques": [
-      "[+15]% Strength bonus for [Military] units within [2] tiles"
-    ]
-  },
-  {
-    "name": "Set-Piece Specialist",
-    "unitType": "Ranged",
-    "movement": 2,
-    "strength": 8,
-    "rangedStrength": 14,
-    "requiredTech": "Offside Trap",
-    "cost": 80
-  },
-  {
-    "name": "The Physio",
-    "unitType": "Civilian",
-    "movement": 2,
-    "cost": 110,
-    "requiredTech": "Sports Science",
-    "uniques": [
-      "All adjacent units heal [+15] HP when healing",
-      "[+15] HP when healing",
-      "Uncapturable"
-    ]
-  },
-  {
-    "name": "Sweeper Keeper",
-    "unitType": "Melee",
-    "movement": 2,
-    "strength": 26,
-    "requiredTech": "Sweeper Keeper School",
-    "cost": 130,
-    "uniques": [
-      "[+33]% Strength <when defending>"
-    ]
-  },
-  {
-    "name": "The Pundit",
-    "unitType": "Civilian",
-    "movement": 2,
-    "cost": 120,
-    "requiredTech": "Broadcast Rights",
-    "uniques": [
-      "Uncapturable"
-    ]
-  },
-  {
-    "name": "SS Booster",
-    "unitType": "Civilian",
-    "movement": 2,
-    "cost": 500,
-    "requiredTech": "Oil State Takeover",
-    "uniques": [
-      "Spaceship part",
-      "Cannot be purchased",
-      "Only available <if [Apollo Program] is constructed>",
-      "Uncapturable",
-      "Can be added to [The Spaceship] in the Capital",
-      "Limited to [3] per Civilization",
-      "Only available <when [Scientific] Victory is enabled>"
-    ]
-  },
-  {
-    "name": "SS Cockpit",
-    "unitType": "Civilian",
-    "movement": 2,
-    "cost": 650,
-    "requiredTech": "Global Franchise",
-    "uniques": [
-      "Spaceship part",
-      "Cannot be purchased",
-      "Only available <if [Apollo Program] is constructed>",
-      "Uncapturable",
-      "Can be added to [The Spaceship] in the Capital",
-      "Limited to [1] per Civilization",
-      "Only available <when [Scientific] Victory is enabled>"
-    ]
-  },
-  {
-    "name": "SS Engine",
-    "unitType": "Civilian",
-    "movement": 2,
-    "cost": 650,
-    "requiredTech": "Multi-Club Model",
-    "uniques": [
-      "Spaceship part",
-      "Cannot be purchased",
-      "Only available <if [Apollo Program] is constructed>",
-      "Uncapturable",
-      "Can be added to [The Spaceship] in the Capital",
-      "Limited to [1] per Civilization",
-      "Only available <when [Scientific] Victory is enabled>"
-    ]
-  },
-  {
-    "name": "SS Stasis Chamber",
-    "unitType": "Civilian",
-    "movement": 2,
-    "cost": 650,
-    "requiredTech": "Fan Ownership Crackdown",
-    "uniques": [
-      "Spaceship part",
-      "Cannot be purchased",
-      "Only available <if [Apollo Program] is constructed>",
-      "Uncapturable",
-      "Can be added to [The Spaceship] in the Capital",
-      "Limited to [1] per Civilization",
-      "Only available <when [Scientific] Victory is enabled>"
-    ]
+    "requiredTech": "Ultra Culture",
+    "cost": 150
   }
 ]
