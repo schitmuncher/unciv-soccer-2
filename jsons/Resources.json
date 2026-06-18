@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Pitch Quality",
+    "resourceType": "Strategic",
+    "production": 1,
+    "uniques": [
+      "Improves units created here by [10]%"
+    ]
+  },
+  {
+    "name": "Players",
+    "resourceType": "Strategic",
+    "production": 2,
+    "uniques": [
+      "Can be gifted to other civilizations"
+    ]
+  },
+  {
+    "name": "Stadium Capacity",
+    "resourceType": "Strategic",
+    "production": 1,
+    "uniques": [
+      "[+2] Happiness [in all cities]"
+    ]
+  },
+  {
+    "name": "Broadcast Rights",
+    "resourceType": "Strategic",
+    "gold": 3,
+    "production": 1,
+    "uniques": [
+      "[+1] Science per [2] population"
+    ]
+  },
+  {
+    "name": "Elite Training Academy",
+    "resourceType": "Strategic",
+    "science": 2,
+    "production": 1,
+    "uniques": [
+      "New [Military] units start with [25] XP"
+    ]
+  },
+  {
+    "name": "Tactical Database",
+    "resourceType": "Strategic",
+    "science": 1,
+    "gold": 1,
+    "uniques": [
+      "[+15]% Science in all cities"
+    ]
+  },
+  {
+    "name": "Sponsorship Deal",
+    "resourceType": "Luxury",
+    "gold": 5,
+    "happiness": 2,
+    "uniques": [
+      "Provides [1] Gold per Trade Route"
+    ]
+  },
+  {
+    "name": "Training Facilities",
+    "resourceType": "Luxury",
+    "production": 2,
+    "happiness": 1,
+    "uniques": [
+      "[+10]% Production when building [Military] units"
+    ]
+  },
+  {
+    "name": "Fan Merchandise",
+    "resourceType": "Luxury",
+    "gold": 4,
+    "culture": 1,
+    "happiness": 2,
+    "uniques": [
+      "Provides [2] Culture per Trade Route"
+    ]
+  },
+  {
+    "name": "Historic Trophy",
+    "resourceType": "Luxury",
+    "culture": 3,
+    "happiness": 3,
+    "uniques": [
+      "[+50]% Culture [in capital]",
+      "Provides [3] Culture per Trade Route"
+    ]
+  },
+  {
+    "name": "Media Hype",
+    "resourceType": "Luxury",
+    "culture": 2,
+    "gold": 2,
+    "happiness": 2,
+    "uniques": [
+      "[+1] Tourism from culture"
+    ]
+  },
+  {
+    "name": "Terraced Stands",
+    "resourceType": "Luxury",
+    "culture": 1,
+    "happiness": 2,
+    "uniques": [
+      "[+1] Culture in all cities"
+    ]
+  },
+  {
+    "name": "Championship Pedigree",
+    "resourceType": "Luxury",
+    "culture": 4,
+    "happiness": 3,
+    "uniques": [
+      "[+25]% Great People generation"
+    ]
+  },
+  {
+    "name": "Winning Mentality",
+    "resourceType": "Luxury",
+    "gold": 3,
+    "happiness": 2,
+    "uniques": [
+      "[+10]% Strength for all units"
+    ]
+  },
+  {
+    "name": "Community Support",
+    "resourceType": "Luxury",
+    "happiness": 4,
+    "culture": 1,
+    "uniques": [
+      "[+1] Happiness per [2] population"
+    ]
+  },
+  {
+    "name": "Elite Scouting Network",
+    "resourceType": "Luxury",
+    "science": 1,
+    "gold": 2,
+    "production": 1,
+    "uniques": [
+      "[+20]% Experience gain for non-combat units"
+    ]
+  },
+  {
+    "name": "Club Prestige",
+    "resourceType": "Luxury",
+    "culture": 2,
+    "gold": 3,
+    "happiness": 2,
+    "uniques": [
+      "[+25]% Gold from international trade routes"
+    ]
+  },
+  {
+    "name": "Passionate Fanbase",
+    "resourceType": "Luxury",
+    "culture": 3,
+    "happiness": 3,
+    "uniques": [
+      "[+2] Culture in all cities"
+    ]
+  },
+  {
+    "name": "State-of-the-Art Facilities",
+    "resourceType": "Luxury",
+    "production": 2,
+    "science": 1,
+    "happiness": 1,
+    "uniques": [
+      "[+25]% Production towards units in this city"
+    ]
+  },
+  {
+    "name": "International Reputation",
+    "resourceType": "Luxury",
+    "gold": 4,
+    "culture": 2,
+    "happiness": 2,
+    "uniques": [
+      "[+3] Gold per Trade Route",
+      "Provides [4] Culture per Trade Route"
+    ]
+  }
+]

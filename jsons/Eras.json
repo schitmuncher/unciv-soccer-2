@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Grassroots",
+    "startingTechs": [
+      "Sunday League"
+    ],
+    "startingSettlerUnit": "Chairman",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Groundstaff",
+    "startingMilitaryUnit": "Youth Prospect",
+    "startPercent": 0,
+    "uniques": []
+  },
+  {
+    "name": "Non-League",
+    "startingTechs": [
+      "Sunday League",
+      "Local Sponsorships",
+      "Basic Drills",
+      "Pub Meetups"
+    ],
+    "startingSettlerUnit": "Chairman",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Groundstaff",
+    "startingMilitaryUnit": "Car Park Hardman",
+    "startPercent": 20,
+    "uniques": []
+  },
+  {
+    "name": "Football League",
+    "startingTechs": [
+      "Sunday League",
+      "Kit Deals",
+      "Pro Coaching",
+      "Away Days",
+      "Corporate Hospitality",
+      "Offside Trap",
+      "Pyro Culture"
+    ],
+    "startingSettlerUnit": "Chairman",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Groundstaff",
+    "startingMilitaryUnit": "Stone Island Shithouse",
+    "startPercent": 40,
+    "uniques": []
+  },
+  {
+    "name": "Premier Era",
+    "startingTechs": [
+      "Sunday League",
+      "Kit Deals",
+      "Pro Coaching",
+      "Away Days",
+      "Corporate Hospitality",
+      "Offside Trap",
+      "Pyro Culture",
+      "Transfer Window",
+      "Park the Bus",
+      "Firm Organization",
+      "Broadcast Rights",
+      "Set-Piece Laboratories",
+      "Stadium Hostility"
+    ],
+    "startingSettlerUnit": "Chairman",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Groundstaff",
+    "startingMilitaryUnit": "Firm Leader",
+    "startPercent": 65,
+    "uniques": []
+  },
+  {
+    "name": "Super League",
+    "startingTechs": [
+      "Sunday League",
+      "Kit Deals",
+      "Pro Coaching",
+      "Away Days",
+      "Corporate Hospitality",
+      "Offside Trap",
+      "Pyro Culture",
+      "Transfer Window",
+      "Park the Bus",
+      "Firm Organization",
+      "Broadcast Rights",
+      "Set-Piece Laboratories",
+      "Stadium Hostility",
+      "Global Branding",
+      "Gegenpressing",
+      "Ultra Coordination",
+      "Hospitality Suites",
+      "Total Football",
+      "Matchday Choreography",
+      "Oil State Takeover",
+      "Elite Academies",
+      "Security Theatre"
+    ],
+    "startingSettlerUnit": "Chairman",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Groundstaff",
+    "startingMilitaryUnit": "Ultra Capo",
+    "startPercent": 85,
+    "uniques": []
+  }
+]

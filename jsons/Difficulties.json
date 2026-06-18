@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Park Sunday",
+    "baseHappiness": 5,
+    "researchCostModifier": 1,
+    "unitCostModifier": 1,
+    "buildingCostModifier": 1,
+    "unhappinessModifier": 1,
+    "barbarianBonus": 0,
+    "playerBonusStartingUnits": [],
+    "aiCityGrowthModifier": 1,
+    "aiUnitCostModifier": 1,
+    "aiBuildingCostModifier": 1,
+    "aiUnhappinessModifier": 1,
+    "aiFreeTechs": [],
+    "aiMajorCivBonusStartingUnits": [],
+    "aiCityStateBonusStartingUnits": [],
+    "clearBarbarianCampReward": 25,
+    "uniques": []
+  },
+  {
+    "name": "Premier League",
+    "baseHappiness": 0,
+    "researchCostModifier": 1,
+    "unitCostModifier": 1,
+    "buildingCostModifier": 1,
+    "unhappinessModifier": 1,
+    "barbarianBonus": 0,
+    "playerBonusStartingUnits": [],
+    "aiCityGrowthModifier": 1.1,
+    "aiUnitCostModifier": 1,
+    "aiBuildingCostModifier": 1,
+    "aiUnhappinessModifier": 0.9,
+    "aiFreeTechs": [],
+    "aiMajorCivBonusStartingUnits": [
+      "Car Park Hardman"
+    ],
+    "aiCityStateBonusStartingUnits": [],
+    "clearBarbarianCampReward": 25,
+    "uniques": []
+  }
+]
