@@ -13,7 +13,9 @@
     "cost": 250,
     "column": 2,
     "row": 1,
-    "prerequisites": ["Sunday League"],
+    "prerequisites": [
+      "Sunday League"
+    ],
     "uniques": []
   },
   {
@@ -22,7 +24,9 @@
     "cost": 250,
     "column": 2,
     "row": 2,
-    "prerequisites": ["Sunday League"],
+    "prerequisites": [
+      "Sunday League"
+    ],
     "uniques": []
   },
   {
@@ -31,7 +35,9 @@
     "cost": 250,
     "column": 2,
     "row": 3,
-    "prerequisites": ["Sunday League"],
+    "prerequisites": [
+      "Sunday League"
+    ],
     "uniques": []
   },
   {
@@ -40,7 +46,9 @@
     "cost": 400,
     "column": 3,
     "row": 1,
-    "prerequisites": ["Local Sponsorships"],
+    "prerequisites": [
+      "Local Sponsorships"
+    ],
     "uniques": []
   },
   {
@@ -49,7 +57,9 @@
     "cost": 400,
     "column": 3,
     "row": 2,
-    "prerequisites": ["Basic Drills"],
+    "prerequisites": [
+      "Basic Drills"
+    ],
     "uniques": []
   },
   {
@@ -58,7 +68,9 @@
     "cost": 400,
     "column": 3,
     "row": 3,
-    "prerequisites": ["Pub Meetups"],
+    "prerequisites": [
+      "Pub Meetups"
+    ],
     "uniques": []
   },
   {
@@ -67,7 +79,9 @@
     "cost": 650,
     "column": 4,
     "row": 1,
-    "prerequisites": ["Corporate Hospitality"],
+    "prerequisites": [
+      "Corporate Hospitality"
+    ],
     "uniques": []
   },
   {
@@ -76,7 +90,9 @@
     "cost": 650,
     "column": 4,
     "row": 2,
-    "prerequisites": ["Pro Coaching"],
+    "prerequisites": [
+      "Pro Coaching"
+    ],
     "uniques": []
   },
   {
@@ -85,7 +101,9 @@
     "cost": 650,
     "column": 4,
     "row": 3,
-    "prerequisites": ["Away Days"],
+    "prerequisites": [
+      "Away Days"
+    ],
     "uniques": []
   },
   {
@@ -94,7 +112,9 @@
     "cost": 400,
     "column": 3,
     "row": 4,
-    "prerequisites": ["Local Sponsorships"],
+    "prerequisites": [
+      "Local Sponsorships"
+    ],
     "uniques": []
   },
   {
@@ -103,7 +123,9 @@
     "cost": 400,
     "column": 3,
     "row": 5,
-    "prerequisites": ["Basic Drills"],
+    "prerequisites": [
+      "Basic Drills"
+    ],
     "uniques": []
   },
   {
@@ -112,7 +134,9 @@
     "cost": 400,
     "column": 3,
     "row": 6,
-    "prerequisites": ["Basic Drills"],
+    "prerequisites": [
+      "Basic Drills"
+    ],
     "uniques": []
   },
   {
@@ -121,187 +145,229 @@
     "cost": 400,
     "column": 3,
     "row": 7,
-    "prerequisites": ["Pub Meetups"],
+    "prerequisites": [
+      "Pub Meetups"
+    ],
     "uniques": []
   },
   {
     "name": "Transfer Window",
-    "era": "Professional",
+    "era": "Premier Era",
     "cost": 1000,
     "column": 5,
     "row": 4,
-    "prerequisites": ["Global Brand"],
+    "prerequisites": [
+      "Global Brand"
+    ],
     "uniques": []
   },
   {
     "name": "Global Branding",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1000,
     "column": 5,
     "row": 5,
-    "prerequisites": ["Total Football"],
+    "prerequisites": [
+      "Total Football"
+    ],
     "uniques": []
   },
   {
     "name": "Park the Bus",
-    "era": "Professional",
+    "era": "Premier Era",
     "cost": 1000,
     "column": 5,
     "row": 6,
-    "prerequisites": ["Firm Organization"],
+    "prerequisites": [
+      "Firm Organization"
+    ],
     "uniques": []
   },
   {
     "name": "Broadcast Rights",
-    "era": "Professional",
+    "era": "Premier Era",
     "cost": 1000,
     "column": 5,
     "row": 7,
-    "prerequisites": ["Global Brand"],
+    "prerequisites": [
+      "Global Brand"
+    ],
     "uniques": []
   },
   {
     "name": "Set-Piece Laboratories",
-    "era": "Professional",
+    "era": "Premier Era",
     "cost": 1000,
     "column": 5,
     "row": 8,
-    "prerequisites": ["Pro Coaching"],
+    "prerequisites": [
+      "Pro Coaching"
+    ],
     "uniques": []
   },
   {
     "name": "Stadium Hostility",
-    "era": "Professional",
+    "era": "Premier Era",
     "cost": 1000,
     "column": 5,
     "row": 9,
-    "prerequisites": ["Pyro Culture"],
+    "prerequisites": [
+      "Pyro Culture"
+    ],
     "uniques": []
   },
   {
     "name": "Ultra Coordination",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1500,
     "column": 6,
     "row": 4,
-    "prerequisites": ["Transfer Window"],
+    "prerequisites": [
+      "Transfer Window"
+    ],
     "uniques": []
   },
   {
     "name": "Hospitality Suites",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1500,
     "column": 6,
     "row": 5,
-    "prerequisites": ["Park the Bus"],
+    "prerequisites": [
+      "Park the Bus"
+    ],
     "uniques": []
   },
   {
     "name": "Matchday Choreography",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1500,
     "column": 6,
     "row": 6,
-    "prerequisites": ["Stadium Hostility"],
+    "prerequisites": [
+      "Stadium Hostility"
+    ],
     "uniques": []
   },
   {
     "name": "Oil State Takeover",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1500,
     "column": 6,
     "row": 7,
-    "prerequisites": ["Broadcast Rights"],
+    "prerequisites": [
+      "Broadcast Rights"
+    ],
     "uniques": []
   },
   {
     "name": "Elite Academies",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1500,
     "column": 6,
     "row": 8,
-    "prerequisites": ["Set-Piece Laboratories"],
+    "prerequisites": [
+      "Set-Piece Laboratories"
+    ],
     "uniques": []
   },
   {
     "name": "Security Theatre",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1500,
     "column": 6,
     "row": 9,
-    "prerequisites": ["Stadium Hostility"],
+    "prerequisites": [
+      "Stadium Hostility"
+    ],
     "uniques": []
   },
   {
     "name": "Sports Washing",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1000,
     "column": 5,
     "row": 1,
-    "prerequisites": ["Global Brand"],
+    "prerequisites": [
+      "Global Brand"
+    ],
     "uniques": []
   },
   {
     "name": "Gegenpressing",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1000,
     "column": 5,
     "row": 2,
-    "prerequisites": ["Total Football"],
+    "prerequisites": [
+      "Total Football"
+    ],
     "uniques": []
   },
   {
     "name": "Hooligan Firms",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1000,
     "column": 5,
     "row": 3,
-    "prerequisites": ["Ultra Culture"],
+    "prerequisites": [
+      "Ultra Culture"
+    ],
     "uniques": []
   },
   {
     "name": "Multi-Club Ownership",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1500,
     "column": 6,
     "row": 1,
-    "prerequisites": ["Sports Washing"],
+    "prerequisites": [
+      "Sports Washing"
+    ],
     "uniques": []
   },
   {
     "name": "Set-Piece Analysts",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1500,
     "column": 6,
     "row": 2,
-    "prerequisites": ["Gegenpressing"],
+    "prerequisites": [
+      "Gegenpressing"
+    ],
     "uniques": []
   },
   {
     "name": "Pyro Displays",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 1500,
     "column": 6,
     "row": 3,
-    "prerequisites": ["Hooligan Firms"],
+    "prerequisites": [
+      "Hooligan Firms"
+    ],
     "uniques": []
   },
   {
     "name": "The Super League",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 2500,
     "column": 7,
     "row": 1,
-    "prerequisites": ["Multi-Club Ownership"],
+    "prerequisites": [
+      "Multi-Club Ownership"
+    ],
     "uniques": []
   },
   {
     "name": "VAR Implementation",
-    "era": "Professional",
+    "era": "Super League",
     "cost": 2500,
     "column": 7,
     "row": 2,
-    "prerequisites": ["Set-Piece Analysts"],
+    "prerequisites": [
+      "Set-Piece Analysts"
+    ],
     "uniques": []
   }
 ]
