@@ -50,5 +50,9 @@
     "strength": 45,
     "requiredTech": "Ultra Culture",
     "cost": 200
-  }
+  },
+  { "name": "SS Engine", "unitType": "Spaceship Part", "cost": 500, "requiredTech": "The Super League", "uniques": ["Spaceship part"] },
+  { "name": "SS Stasis Chamber", "unitType": "Spaceship Part", "cost": 500, "requiredTech": "The Super League", "uniques": ["Spaceship part"] },
+  { "name": "SS Cockpit", "unitType": "Spaceship Part", "cost": 500, "requiredTech": "The Super League", "uniques": ["Spaceship part"] },
+  { "name": "SS Booster", "unitType": "Spaceship Part", "cost": 500, "requiredTech": "The Super League", "uniques": ["Spaceship part"] }
 ]
