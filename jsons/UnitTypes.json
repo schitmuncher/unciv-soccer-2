@@ -14,9 +14,5 @@
   {
     "name": "Ranged",
     "movementType": "Land"
-  },
-  {
-    "name": "Sword",
-    "movementType": "Land"
   }
 ]

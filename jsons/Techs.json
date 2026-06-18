@@ -1,24 +1,71 @@
 [
-  { "name": "Sunday League", "era": "Grassroots", "cost": 150, "column": 1, "row": 2 },
-  { "name": "Local Sponsorships", "era": "Grassroots", "cost": 250, "column": 2, "row": 1, "prerequisites": ["Sunday League"] },
-  { "name": "Basic Drills", "era": "Grassroots", "cost": 250, "column": 2, "row": 2, "prerequisites": ["Sunday League"] },
-  { "name": "Pub Meetups", "era": "Grassroots", "cost": 250, "column": 2, "row": 3, "prerequisites": ["Sunday League"] },
-  { "name": "Corporate Hospitality", "era": "Grassroots", "cost": 400, "column": 3, "row": 1, "prerequisites": ["Local Sponsorships"] },
-  { "name": "Pro Coaching", "era": "Grassroots", "cost": 400, "column": 3, "row": 2, "prerequisites": ["Basic Drills"] },
-  { "name": "Away Days", "era": "Grassroots", "cost": 400, "column": 3, "row": 3, "prerequisites": ["Pub Meetups"] },
-  { "name": "Global Brand", "era": "Grassroots", "cost": 650, "column": 4, "row": 1, "prerequisites": ["Corporate Hospitality"] },
-  { "name": "Total Football", "era": "Grassroots", "cost": 650, "column": 4, "row": 2, "prerequisites": ["Pro Coaching"] },
-  { "name": "Ultra Culture", "era": "Grassroots", "cost": 650, "column": 4, "row": 3, "prerequisites": ["Away Days"] },
-  { "name": "Kit Deals", "era": "Grassroots", "cost": 650, "column": 4, "row": 4, "prerequisites": ["Local Sponsorships"] },
-  { "name": "Firm Organization", "era": "Grassroots", "cost": 650, "column": 4, "row": 5, "prerequisites": ["Pub Meetups"] },
-  { "name": "Transfer Window", "era": "Professional", "cost": 1000, "column": 5, "row": 1, "prerequisites": ["Global Brand"] },
-  { "name": "Global Branding", "era": "Professional", "cost": 1000, "column": 5, "row": 4, "prerequisites": ["Total Football"] },
-  { "name": "Sports Washing", "era": "Professional", "cost": 1000, "column": 5, "row": 5, "prerequisites": ["Ultra Culture"] },
-  { "name": "Gegenpressing", "era": "Professional", "cost": 1500, "column": 6, "row": 1, "prerequisites": ["Transfer Window"] },
-  { "name": "Hooligan Firms", "era": "Professional", "cost": 1500, "column": 6, "row": 3, "prerequisites": ["Sports Washing"] },
-  { "name": "Multi-Club Ownership", "era": "Professional", "cost": 2000, "column": 7, "row": 1, "prerequisites": ["Gegenpressing"] },
-  { "name": "Set-Piece Analysts", "era": "Professional", "cost": 2000, "column": 7, "row": 2, "prerequisites": ["Gegenpressing"] },
-  { "name": "Pyro Displays", "era": "Professional", "cost": 2000, "column": 7, "row": 3, "prerequisites": ["Hooligan Firms"] },
-  { "name": "The Super League", "era": "Professional", "cost": 3000, "column": 8, "row": 1, "prerequisites": ["Multi-Club Ownership"] },
-  { "name": "VAR Implementation", "era": "Professional", "cost": 3000, "column": 8, "row": 2, "prerequisites": ["Set-Piece Analysts"] }
+  {
+    "columnNumber": 0,
+    "era": "Grassroots",
+    "techCost": 20,
+    "buildingCost": 40,
+    "wonderCost": 80,
+    "techs": [
+      {
+        "name": "Sunday League",
+        "row": 1,
+        "cost": 20,
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 1,
+    "era": "Grassroots",
+    "techCost": 40,
+    "buildingCost": 60,
+    "wonderCost": 120,
+    "techs": [
+      {
+        "name": "Local Hero",
+        "row": 1,
+        "cost": 40,
+        "prerequisites": [
+          "Sunday League"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 2,
+    "era": "Grassroots",
+    "techCost": 90,
+    "buildingCost": 120,
+    "wonderCost": 200,
+    "techs": [
+      {
+        "name": "Professionalism",
+        "row": 1,
+        "cost": 90,
+        "prerequisites": [
+          "Local Hero"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 3,
+    "era": "Grassroots",
+    "techCost": 150,
+    "buildingCost": 350,
+    "wonderCost": 500,
+    "techs": [
+      {
+        "name": "Global Brand",
+        "row": 1,
+        "cost": 150,
+        "prerequisites": [
+          "Professionalism"
+        ],
+        "uniques": []
+      }
+    ]
+  }
 ]

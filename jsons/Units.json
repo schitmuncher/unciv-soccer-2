@@ -1,27 +1,16 @@
 [
   {
-    "name": "Chairman",
-    "unitType": "Civilian",
-    "movement": 2,
-    "cost": 80,
-    "uniques": ["Founds a new city"]
-  },
-  {
     "name": "Groundstaff",
     "unitType": "Civilian",
     "movement": 2,
-    "cost": 50
-  },
-  {
-    "name": "Youth Prospect",
-    "unitType": "Scout",
-    "movement": 3,
-    "strength": 5,
-    "cost": 30
+    "cost": 50,
+    "uniques": [
+      "Founds a new city"
+    ]
   },
   {
     "name": "Car Park Hardman",
-    "unitType": "Sword",
+    "unitType": "Melee",
     "movement": 2,
     "strength": 10,
     "requiredTech": "Sunday League",
@@ -29,30 +18,10 @@
   },
   {
     "name": "Stone Island Shithouse",
-    "unitType": "Sword",
+    "unitType": "Melee",
     "movement": 2,
-    "strength": 20,
-    "requiredTech": "Away Days",
-    "cost": 90
-  },
-  {
-    "name": "Firm Leader",
-    "unitType": "Sword",
-    "movement": 2,
-    "strength": 35,
-    "requiredTech": "Ultra Culture",
-    "cost": 150
-  },
-  {
-    "name": "Ultra Capo",
-    "unitType": "Sword",
-    "movement": 2,
-    "strength": 45,
-    "requiredTech": "Ultra Culture",
-    "cost": 200
-  },
-  { "name": "SS Engine", "unitType": "Spaceship Part", "cost": 500, "requiredTech": "The Super League", "uniques": ["Spaceship part"] },
-  { "name": "SS Stasis Chamber", "unitType": "Spaceship Part", "cost": 500, "requiredTech": "The Super League", "uniques": ["Spaceship part"] },
-  { "name": "SS Cockpit", "unitType": "Spaceship Part", "cost": 500, "requiredTech": "The Super League", "uniques": ["Spaceship part"] },
-  { "name": "SS Booster", "unitType": "Spaceship Part", "cost": 500, "requiredTech": "The Super League", "uniques": ["Spaceship part"] }
+    "strength": 25,
+    "requiredTech": "Local Hero",
+    "cost": 100
+  }
 ]

@@ -1,1 +1,1 @@
-# unciv-soccer-2
+# UncivSoccer
