@@ -211,7 +211,8 @@
     "requiredTech": "Sports Science",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[This Unit] heals [50] HP <when above [50] HP> <when defending>"
+      "[+10]% Healing for all friendly units",
+      "[+2] Happiness [in this city]"
     ]
   },
   {
