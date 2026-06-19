@@ -32,9 +32,7 @@
     "aiBuildingCostModifier": 1,
     "aiUnhappinessModifier": 0.9,
     "aiFreeTechs": [],
-    "aiMajorCivBonusStartingUnits": [
-      "Car Park Hardman"
-    ],
+    "aiMajorCivBonusStartingUnits": [],
     "aiCityStateBonusStartingUnits": [],
     "clearBarbarianCampReward": 25,
     "uniques": []
