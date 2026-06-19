@@ -80,13 +80,17 @@
         "name": "Schoolboy Intake",
         "uniques": [
           "[+10]% growth [in capital]"
-        ]
+        ],
+        "row": 1,
+        "column": 1
       },
       {
         "name": "Five-a-Side Courts",
         "uniques": [
           "[+1 Culture] [in all cities]"
-        ]
+        ],
+        "row": 1,
+        "column": 3
       },
       {
         "name": "Scholarship Pathway",
@@ -96,7 +100,9 @@
         "uniques": [
           "[+1 Science] [in all cities]",
           "[+10]% Science [in capital]"
-        ]
+        ],
+        "row": 2,
+        "column": 2
       },
       {
         "name": "Reserve Team Minutes",
@@ -106,7 +112,9 @@
         "uniques": [
           "[+25]% XP gained from combat <for [Military] units>",
           "[+15]% growth [in all cities]"
-        ]
+        ],
+        "row": 2,
+        "column": 4
       },
       {
         "name": "Youth Academy Focus Complete",
@@ -201,14 +209,18 @@
         "name": "Us and Them",
         "uniques": [
           "[+15]% Strength for [Military] units [in all cities]"
-        ]
+        ],
+        "row": 1,
+        "column": 1
       },
       {
         "name": "Mob Rules",
         "uniques": [
           "[+10]% Production when constructing [Military] units [in all cities]",
           "[+10]% Strength for [Military] units <when defending>"
-        ]
+        ],
+        "row": 1,
+        "column": 3
       },
       {
         "name": "Pillage the Away End",
@@ -218,7 +230,9 @@
         "uniques": [
           "[+15]% Gold from Pillaging [in all cities]",
           "[+1 Gold] per [Military] unit <when attacking>"
-        ]
+        ],
+        "row": 2,
+        "column": 2
       },
       {
         "name": "No Surrender",
@@ -228,7 +242,9 @@
         "uniques": [
           "[+20]% Strength for [Military] units <when defending>",
           "Units heal [+5] HP when killing a unit"
-        ]
+        ],
+        "row": 2,
+        "column": 4
       },
       {
         "name": "Terrace Mentality Complete",
@@ -263,13 +279,17 @@
         "uniques": [
           "[+3 Gold] [in capital]",
           "[+1 Gold] [in all cities]"
-        ]
+        ],
+        "row": 1,
+        "column": 1
       },
       {
         "name": "Wage Bill Explosion",
         "uniques": [
           "[+15]% Production when constructing [Military] units [in all cities]"
-        ]
+        ],
+        "row": 1,
+        "column": 3
       },
       {
         "name": "Buy the Title",
@@ -279,7 +299,9 @@
         "uniques": [
           "[+5 Gold] [in capital]",
           "[+25]% Gold from international trade routes"
-        ]
+        ],
+        "row": 2,
+        "column": 2
       },
       {
         "name": "Sports Wash PR",
@@ -289,7 +311,9 @@
         "uniques": [
           "[+2 Happiness] [in all cities]",
           "[+2 Culture] [in capital]"
-        ]
+        ],
+        "row": 2,
+        "column": 4
       },
       {
         "name": "Sugar Daddy Takeover Complete",

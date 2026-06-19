@@ -158,7 +158,7 @@
   {
     "name": "Scouting Post",
     "terrainsCanBeBuiltOn": [
-      "Hills",
+      "Hill",
       "Forest",
       "Plains",
       "Grassland",
