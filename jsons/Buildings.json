@@ -210,9 +210,8 @@
     "science": 1,
     "requiredTech": "Sports Science",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[This Unit] heals [50] HP <when above [50] HP> <when defending>"
-    ]
+    "uniques": [],
+    "cost": 130
   },
   {
     "name": "Analytics Office",
