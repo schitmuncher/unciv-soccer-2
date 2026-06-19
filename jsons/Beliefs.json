@@ -3,8 +3,8 @@
     "name": "Total Football Doctrine",
     "type": "Follower",
     "uniques": [
-      "[+2 Science] [in all cities]",
-      "[+1 Culture] [in all cities]",
+      "[+2] [Science] [in all cities]",
+      "[+1] [Culture] [in all cities]",
       "New [Military] units start with [15] XP [in this city]"
     ]
   },
@@ -21,7 +21,7 @@
     "type": "Follower",
     "uniques": [
       "[+15]% Strength <for [All] units> <when defending>",
-      "[+1 Gold] [in all cities]"
+      "[+1] [Gold] [in all cities]"
     ]
   },
   {
@@ -29,7 +29,7 @@
     "type": "Follower",
     "uniques": [
       "[+20]% [Gold] [in this city]",
-      "[+1 Science] [in all cities]",
+      "[+1] [Science] [in all cities]",
       "[+15]% [Culture] [in this city]"
     ]
   },
@@ -37,8 +37,8 @@
     "name": "4-3-3 Formation",
     "type": "Follower",
     "uniques": [
-      "[+1 Production] [in all cities]",
-      "[+1 Culture] [in all cities]",
+      "[+1] [Production] [in all cities]",
+      "[+1] [Culture] [in all cities]",
       "[+10]% Strength <for [All] units>"
     ]
   },
@@ -72,7 +72,7 @@
     "type": "Follower",
     "uniques": [
       "[+25]% Great Person generation [in this city]",
-      "[+2 Science] [in all cities]",
+      "[+2] [Science] [in all cities]",
       "New [Military] units start with [15] XP [in this city]"
     ]
   },

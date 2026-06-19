@@ -238,7 +238,7 @@
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+5] Culture in all cities",
+      "[+5] [Culture] [in all cities]",
       "[+25]% [Culture] [in this city]"
     ]
   },
@@ -330,7 +330,7 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "[+30]% [Gold] [in this city]",
-      "[+2] [Happiness]"
+      "[+2] [Happiness] [in all cities]"
     ]
   },
   {
@@ -354,7 +354,7 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "[+15] XP for all [Military] units built in this city",
-      "[+1] Science in all cities"
+      "[+1] [Science] [in all cities]"
     ]
   },
   {
