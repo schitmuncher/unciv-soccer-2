@@ -350,7 +350,7 @@
     "preferredVictoryType": "Cultural",
     "uniqueName": "The 5000-1 Miracle",
     "uniques": [
-      "[+20]% Strength for [Military] units [in all cities]",
+      "[+20]% Strength <for [All] units>",
       "[+1 Happiness] [in all cities]"
     ],
     "cities": [
