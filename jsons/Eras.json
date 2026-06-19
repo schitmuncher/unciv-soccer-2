@@ -4,9 +4,9 @@
     "startingTechs": [
       "Sunday League"
     ],
-    "startingSettlerUnit": "Chairman",
+    "startingSettlerUnit": "Settler",
     "startingWorkerCount": 1,
-    "startingWorkerUnit": "Groundstaff",
+    "startingWorkerUnit": "Worker",
     "startingMilitaryUnit": "Scout",
     "startPercent": 0,
     "uniques": []
@@ -19,10 +19,10 @@
       "Basic Drills",
       "Pub Meetups"
     ],
-    "startingSettlerUnit": "Chairman",
+    "startingSettlerUnit": "Settler",
     "startingWorkerCount": 1,
-    "startingWorkerUnit": "Groundstaff",
-    "startingMilitaryUnit": "Car Park Hardman",
+    "startingWorkerUnit": "Worker",
+    "startingMilitaryUnit": "Warrior",
     "startPercent": 20,
     "uniques": []
   },
@@ -37,10 +37,10 @@
       "Offside Trap",
       "Pyro Culture"
     ],
-    "startingSettlerUnit": "Chairman",
+    "startingSettlerUnit": "Settler",
     "startingWorkerCount": 1,
-    "startingWorkerUnit": "Groundstaff",
-    "startingMilitaryUnit": "Stone Island Shithouse",
+    "startingWorkerUnit": "Worker",
+    "startingMilitaryUnit": "Swordsman",
     "startPercent": 40,
     "uniques": []
   },
@@ -61,10 +61,10 @@
       "Set-Piece Laboratories",
       "Stadium Hostility"
     ],
-    "startingSettlerUnit": "Chairman",
+    "startingSettlerUnit": "Settler",
     "startingWorkerCount": 1,
-    "startingWorkerUnit": "Groundstaff",
-    "startingMilitaryUnit": "Firm Leader",
+    "startingWorkerUnit": "Worker",
+    "startingMilitaryUnit": "Longswordsman",
     "startPercent": 65,
     "uniques": []
   },
@@ -94,10 +94,10 @@
       "Elite Academies",
       "Security Theatre"
     ],
-    "startingSettlerUnit": "Chairman",
+    "startingSettlerUnit": "Settler",
     "startingWorkerCount": 1,
-    "startingWorkerUnit": "Groundstaff",
-    "startingMilitaryUnit": "Ultra Capo",
+    "startingWorkerUnit": "Worker",
+    "startingMilitaryUnit": "Hero",
     "startPercent": 85,
     "uniques": []
   }

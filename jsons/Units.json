@@ -1,6 +1,6 @@
 [
   {
-    "name": "Chairman",
+    "name": "Settler",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 80,
@@ -10,7 +10,7 @@
     "icon": "SettlerAtlas_256"
   },
   {
-    "name": "Groundstaff",
+    "name": "Worker",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 50,
@@ -31,7 +31,7 @@
     "icon": "ScoutAtlas_256"
   },
   {
-    "name": "Car Park Hardman",
+    "name": "Warrior",
     "unitType": "Melee",
     "movement": 2,
     "strength": 10,
@@ -40,7 +40,7 @@
     "icon": "SwordmanAtlas_256"
   },
   {
-    "name": "Stone Island Shithouse",
+    "name": "Swordsman",
     "unitType": "Melee",
     "movement": 2,
     "strength": 20,
@@ -49,7 +49,7 @@
     "icon": "SwordmanAtlas_256"
   },
   {
-    "name": "Firm Leader",
+    "name": "Longswordsman",
     "unitType": "Melee",
     "movement": 2,
     "strength": 35,
@@ -61,7 +61,7 @@
     "icon": "SwordmanAtlas_256"
   },
   {
-    "name": "Ultra Capo",
+    "name": "Hero",
     "unitType": "Melee",
     "movement": 2,
     "strength": 52,
@@ -73,7 +73,7 @@
     "icon": "SwordmanAtlas_256"
   },
   {
-    "name": "Bottle Thrower",
+    "name": "Archer",
     "unitType": "Ranged",
     "movement": 2,
     "strength": 7,
@@ -87,7 +87,7 @@
     "icon": "ArcherAtlas_256"
   },
   {
-    "name": "Set-Piece Specialist",
+    "name": "Composite Bowman",
     "unitType": "Ranged",
     "movement": 2,
     "strength": 8,
@@ -98,7 +98,7 @@
     "icon": "ArcherAtlas_256"
   },
   {
-    "name": "Flare Sniper",
+    "name": "Crossbowman",
     "unitType": "Ranged",
     "movement": 2,
     "strength": 11,
@@ -112,7 +112,7 @@
     "icon": "ArcherAtlas_256"
   },
   {
-    "name": "Pyro Specialist",
+    "name": "Gatling Gun",
     "unitType": "Ranged",
     "movement": 2,
     "strength": 14,
@@ -127,7 +127,7 @@
     "icon": "ArcherAtlas_256"
   },
   {
-    "name": "Moped Lads",
+    "name": "Heavy Chariot",
     "unitType": "Cavalry",
     "movement": 4,
     "strength": 14,
@@ -140,7 +140,7 @@
     "icon": "HorsemanAtlas_256"
   },
   {
-    "name": "Away Coach",
+    "name": "Knight",
     "unitType": "Cavalry",
     "movement": 5,
     "strength": 26,
@@ -154,7 +154,7 @@
     "icon": "HorsemanAtlas_256"
   },
   {
-    "name": "Riot Van",
+    "name": "Cavalry",
     "unitType": "Cavalry",
     "movement": 5,
     "strength": 42,
@@ -169,7 +169,7 @@
     "icon": "HorsemanAtlas_256"
   },
   {
-    "name": "Turnstile Breaker",
+    "name": "Catapult",
     "unitType": "Siege",
     "movement": 2,
     "strength": 12,
@@ -184,7 +184,7 @@
     "icon": "CatapultAtlas_256"
   },
   {
-    "name": "Megaphone Agitator",
+    "name": "Trebuchet",
     "unitType": "Siege",
     "movement": 2,
     "strength": 16,
@@ -200,7 +200,7 @@
     "icon": "CatapultAtlas_256"
   },
   {
-    "name": "The Physio",
+    "name": "Great Prophet",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 110,
@@ -213,7 +213,7 @@
     "icon": "SettlerAtlas_256"
   },
   {
-    "name": "Sweeper Keeper",
+    "name": "Samurai",
     "unitType": "Melee",
     "movement": 2,
     "strength": 26,
@@ -225,7 +225,7 @@
     "icon": "SwordmanAtlas_256"
   },
   {
-    "name": "The Pundit",
+    "name": "Great Writer",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 120,
@@ -236,7 +236,7 @@
     "icon": "SettlerAtlas_256"
   },
   {
-    "name": "Club Legend",
+    "name": "Artist",
     "unitType": "Civilian",
     "movement": 2,
     "uniques": [

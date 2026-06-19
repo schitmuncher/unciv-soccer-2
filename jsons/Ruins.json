@@ -9,16 +9,16 @@
   },
   {
     "name": "volunteers report for duty",
-    "notification": "A [Groundstaff] crew has joined us!",
+    "notification": "A [Worker] crew has joined us!",
     "uniques": [
-      "Free [Groundstaff] found in the ruins"
+      "Free [Worker] found in the ruins"
     ]
   },
   {
     "name": "backers ready to invest",
-    "notification": "A [Chairman] has agreed to bankroll a new ground!",
+    "notification": "A [Settler] has agreed to bankroll a new ground!",
     "uniques": [
-      "Free [Chairman] found in the ruins"
+      "Free [Settler] found in the ruins"
     ]
   },
   {
@@ -129,7 +129,7 @@
     "notification": "A wealthy philanthropist wants to invest in the club!",
     "uniques": [
       "Gain [100]-[200] [Gold] <(modified by game speed)>",
-      "Free [Chairman] found in the ruins"
+      "Free [Settler] found in the ruins"
     ],
     "color": "#fdcb6e"
   }
