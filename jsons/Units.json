@@ -22,7 +22,7 @@
     "icon": "SettlerAtlas_256"
   },
   {
-    "name": "Youth Prospect",
+    "name": "Scout",
     "unitType": "Scout",
     "movement": 3,
     "strength": 5,
