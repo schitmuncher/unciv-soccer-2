@@ -1,6 +1,6 @@
 [
   {
-    "name": "Settler",
+    "name": "Club Chairman",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 80,
@@ -22,7 +22,7 @@
     "icon": "SettlerAtlas_256"
   },
   {
-    "name": "Scout",
+    "name": "Youth Scout",
     "unitType": "Scout",
     "movement": 3,
     "strength": 5,
@@ -107,7 +107,7 @@
     "requiredTech": "Pyro Culture",
     "cost": 130,
     "uniques": [
-      "[+33]% Strength <vs [City] units>"
+      "[+33]% Strength <vs cities>"
     ],
     "icon": "ArcherAtlas_256"
   },
@@ -122,7 +122,7 @@
     "cost": 210,
     "uniques": [
       "[+20]% Strength bonus for [Military] units within [2] tiles",
-      "[+33]% Strength <vs [City] units>"
+      "[+33]% Strength <vs cities>"
     ],
     "icon": "ArcherAtlas_256"
   },
@@ -134,7 +134,7 @@
     "requiredTech": "Away Days",
     "cost": 75,
     "uniques": [
-      "[+1] Movement <on [Road] tiles>",
+      "[+1] Movement <in [Road] tiles>",
       "Can move after attacking"
     ],
     "icon": "HorsemanAtlas_256"
@@ -147,21 +147,21 @@
     "requiredTech": "Transfer Window",
     "cost": 150,
     "uniques": [
-      "[+1] Movement <on [Road] tiles>",
+      "[+1] Movement <in [Road] tiles>",
       "Can move after attacking",
       "Ignores terrain cost"
     ],
     "icon": "HorsemanAtlas_256"
   },
   {
-    "name": "Cavalry",
+    "name": "Away Cavalry",
     "unitType": "Cavalry",
     "movement": 5,
     "strength": 42,
     "requiredTech": "Security Theatre",
     "cost": 250,
     "uniques": [
-      "[+1] Movement <on [Road] tiles>",
+      "[+1] Movement <in [Road] tiles>",
       "Can move after attacking",
       "Ignores terrain cost",
       "[+15]% Strength <when defending>"
@@ -179,7 +179,7 @@
     "cost": 120,
     "uniques": [
       "Must set up to ranged attack",
-      "[+200]% Strength <vs [City] units>"
+      "[+200]% Strength <vs cities>"
     ],
     "icon": "CatapultAtlas_256"
   },
@@ -194,7 +194,7 @@
     "cost": 220,
     "uniques": [
       "Must set up to ranged attack",
-      "[+200]% Strength <vs [City] units>",
+      "[+200]% Strength <vs cities>",
       "[+10]% Strength bonus for [Military] units within [2] tiles"
     ],
     "icon": "CatapultAtlas_256"

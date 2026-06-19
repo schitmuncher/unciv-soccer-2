@@ -16,9 +16,9 @@
   },
   {
     "name": "backers ready to invest",
-    "notification": "A [Settler] has agreed to bankroll a new ground!",
+    "notification": "We have found a crudely-drawn map in the ruins!",
     "uniques": [
-      "Free [Settler] found in the ruins"
+      "From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"
     ]
   },
   {
@@ -62,74 +62,73 @@
   },
   {
     "name": "legendary manager emerges from retirement",
-    "notification": "A legendary manager has come out of retirement to lead our club!",
+    "notification": "A [Worker] has joined us!",
     "uniques": [
-      "Free [Master Tactician] found in the ruins"
+      "Free [Worker] found in the ruins"
     ],
     "color": "#ff6b6b"
   },
   {
     "name": "local star returns from abroad",
-    "notification": "Our club legend returns from an international career!",
+    "notification": "",
     "uniques": [
-      "Free [Club Legend] found in the ruins"
+      "Gain [50]-[100] [Gold] <(modified by game speed)>"
     ],
     "color": "#4ecdc4"
   },
   {
     "name": "transfer deal materializes",
-    "notification": "An unexpected signing has arrived at the training ground!",
+    "notification": "We have found a crudely-drawn map in the ruins!",
     "uniques": [
-      "Free [Stone Island Shithouse] found in the ruins"
+      "From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"
     ],
     "color": "#ffe66d"
   },
   {
     "name": "academy prospects excel",
-    "notification": "Young prospects from the academy are ready for first team!",
+    "notification": "We have discovered the lost technology of [techName] in the ruins!",
     "uniques": [
-      "Free [Scout] found in the ruins"
+      "[1] free random researchable Tech(s) from the [Ancient era]"
     ],
     "color": "#95e1d3"
   },
   {
     "name": "historic trophy discovered",
-    "notification": "We have unearthed one of our club's greatest trophies!",
+    "notification": "A [Worker] has joined us!",
     "uniques": [
-      "Gain [75] [Culture] <(modified by game speed)>"
+      "Free [Worker] found in the ruins"
     ],
     "color": "#ffd700"
   },
   {
     "name": "rival manager scandal",
-    "notification": "A scandal has weakened a rival manager! Diplomatic advantage gained.",
+    "notification": "",
     "uniques": [
-      "Gain [20] [Diplomatic Visibility] with random civilization"
+      "Gain [50]-[100] [Gold] <(modified by game speed)>"
     ],
     "color": "#e74c3c"
   },
   {
     "name": "stadium blueprints uncovered",
-    "notification": "Ancient stadium designs inspire a new structure!",
+    "notification": "We have found a crudely-drawn map in the ruins!",
     "uniques": [
-      "Free [Training Pitch] building appears in the city of [cityName]"
+      "From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"
     ],
     "color": "#a29bfe"
   },
   {
     "name": "historic derby match record",
-    "notification": "Records of an epic derby victory inspire the team!",
+    "notification": "We have discovered the lost technology of [techName] in the ruins!",
     "uniques": [
-      "Gain [15] [Combat Experience] for all military units"
+      "[1] free random researchable Tech(s) from the [Ancient era]"
     ],
     "color": "#ff7675"
   },
   {
     "name": "philanthropist investor",
-    "notification": "A wealthy philanthropist wants to invest in the club!",
+    "notification": "A [Worker] has joined us!",
     "uniques": [
-      "Gain [100]-[200] [Gold] <(modified by game speed)>",
-      "Free [Settler] found in the ruins"
+      "Free [Worker] found in the ruins"
     ],
     "color": "#fdcb6e"
   }

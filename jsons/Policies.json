@@ -140,14 +140,14 @@
       "Scientific": 25
     },
     "uniques": [
-      "[+1 Gold] [in all cities]",
+      "[+1] [Gold] [in all cities]",
       "[-50]% Gold cost of acquiring tiles [in all cities]"
     ],
     "policies": [
       {
         "name": "Merch Tables",
         "uniques": [
-          "[+1 Gold] [in capital]"
+          "[+1] [Gold] [in capital]"
         ],
         "row": 1,
         "column": 1
@@ -163,7 +163,7 @@
       {
         "name": "Corporate Boxes",
         "uniques": [
-          "[+2 Gold] [in capital]"
+          "[+2] [Gold] [in capital]"
         ],
         "row": 2,
         "column": 2,
@@ -185,7 +185,7 @@
       {
         "name": "Commercial Empire Complete",
         "uniques": [
-          "[+2 Gold] [in all cities]"
+          "[+2] [Gold] [in all cities]"
         ]
       }
     ]
@@ -228,8 +228,7 @@
           "Mob Rules"
         ],
         "uniques": [
-          "[+15]% Gold from Pillaging [in all cities]",
-          "[+1 Gold] per [Military] unit <when attacking>"
+          "Earn [50]% of killed [Military] unit's [Cost] as [Gold]"
         ],
         "row": 2,
         "column": 2
@@ -241,7 +240,7 @@
         ],
         "uniques": [
           "[+20]% Strength <when defending> <for [All] units>",
-          "Units heal [+5] HP when killing a unit"
+          "Heals [50] HP when killing a unit"
         ],
         "row": 2,
         "column": 4
@@ -270,15 +269,15 @@
       "Scientific": 30
     },
     "uniques": [
-      "[+2 Gold] [in capital]",
+      "[+2] [Gold] [in capital]",
       "[+1 Happiness] [in capital]"
     ],
     "policies": [
       {
         "name": "Sovereign Wealth Injection",
         "uniques": [
-          "[+3 Gold] [in capital]",
-          "[+1 Gold] [in all cities]"
+          "[+3] [Gold] [in capital]",
+          "[+1] [Gold] [in all cities]"
         ],
         "row": 1,
         "column": 1
@@ -297,7 +296,7 @@
           "Wage Bill Explosion"
         ],
         "uniques": [
-          "[+5 Gold] [in capital]",
+          "[+5] [Gold] [in capital]",
           "[+25]% Gold from international trade routes"
         ],
         "row": 2,
@@ -322,7 +321,7 @@
           "Sports Wash PR"
         ],
         "uniques": [
-          "[+3 Gold] [in all cities]",
+          "[+3] [Gold] [in all cities]",
           "[+2 Happiness] [in all cities]"
         ]
       }
@@ -339,8 +338,7 @@
       "Scientific": 25
     },
     "uniques": [
-      "[+2 Science] [in all cities]",
-      "[-50]% Tech cost of techs in the [Football League] era [in all cities]"
+      "[+2 Science] [in all cities]"
     ],
     "policies": [
       {
@@ -354,7 +352,7 @@
       {
         "name": "Video Analysis",
         "uniques": [
-          "[+15]% Science [in all cities]"
+          "[+15]% [Science] [in all cities]"
         ],
         "row": 1,
         "column": 3
@@ -401,7 +399,7 @@
       "Scientific": 15
     },
     "uniques": [
-      "[+3 Gold] from Trade Routes [in all cities]",
+      "[+3] [Gold] from Trade Routes [in all cities]",
       "[+1 Culture] [in all cities]"
     ],
     "policies": [
@@ -416,16 +414,14 @@
       {
         "name": "Continental Sponsorships",
         "uniques": [
-          "[+2 Gold] from Trade Routes [in all cities]"
+          "[+2] [Gold] from Trade Routes [in all cities]"
         ],
         "row": 1,
         "column": 3
       },
       {
         "name": "International Players",
-        "uniques": [
-          "[+2 Diplomatic Visibility] with all civilizations"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 2,
         "requires": [
@@ -446,8 +442,7 @@
       {
         "name": "International Ambition Complete",
         "uniques": [
-          "[+3 Gold] from Trade Routes [in all cities]",
-          "[+2 Diplomatic Visibility] with all civilizations"
+          "[+3] [Gold] from Trade Routes [in all cities]"
         ]
       }
     ]
@@ -526,8 +521,7 @@
       "Scientific": 10
     },
     "uniques": [
-      "[+15]% Gold [in all cities]",
-      "[+1 Diplomatic Visibility] with all civilizations"
+      "[+15]% Gold [in all cities]"
     ],
     "policies": [
       {
@@ -541,7 +535,7 @@
       {
         "name": "Revenue Sharing",
         "uniques": [
-          "[+1 Gold] from Trade Routes [in all cities]"
+          "[+1] [Gold] from Trade Routes [in all cities]"
         ],
         "row": 1,
         "column": 3
@@ -549,7 +543,7 @@
       {
         "name": "Balanced Budget",
         "uniques": [
-          "[+2 Gold] [in all cities]"
+          "[+2] [Gold] [in all cities]"
         ],
         "row": 2,
         "column": 2,
@@ -559,9 +553,7 @@
       },
       {
         "name": "Transparency Protocol",
-        "uniques": [
-          "[+2 Diplomatic Visibility] with all civilizations"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 4,
         "requires": [
@@ -571,8 +563,7 @@
       {
         "name": "Financial Fair Play Complete",
         "uniques": [
-          "[+20]% Gold [in all cities]",
-          "[+2 Diplomatic Visibility] with all civilizations"
+          "[+20]% Gold [in all cities]"
         ]
       }
     ]

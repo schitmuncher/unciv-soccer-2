@@ -4,10 +4,10 @@
     "startingTechs": [
       "Sunday League"
     ],
-    "startingSettlerUnit": "Settler",
+    "startingSettlerUnit": "Club Chairman",
     "startingWorkerCount": 1,
     "startingWorkerUnit": "Worker",
-    "startingMilitaryUnit": "Scout",
+    "startingMilitaryUnit": "Youth Scout",
     "startPercent": 0,
     "uniques": []
   },
@@ -19,7 +19,7 @@
       "Basic Drills",
       "Pub Meetups"
     ],
-    "startingSettlerUnit": "Settler",
+    "startingSettlerUnit": "Club Chairman",
     "startingWorkerCount": 1,
     "startingWorkerUnit": "Worker",
     "startingMilitaryUnit": "Warrior",
@@ -37,7 +37,7 @@
       "Offside Trap",
       "Pyro Culture"
     ],
-    "startingSettlerUnit": "Settler",
+    "startingSettlerUnit": "Club Chairman",
     "startingWorkerCount": 1,
     "startingWorkerUnit": "Worker",
     "startingMilitaryUnit": "Swordsman",
@@ -61,7 +61,7 @@
       "Set-Piece Laboratories",
       "Stadium Hostility"
     ],
-    "startingSettlerUnit": "Settler",
+    "startingSettlerUnit": "Club Chairman",
     "startingWorkerCount": 1,
     "startingWorkerUnit": "Worker",
     "startingMilitaryUnit": "Longswordsman",
@@ -94,7 +94,7 @@
       "Elite Academies",
       "Security Theatre"
     ],
-    "startingSettlerUnit": "Settler",
+    "startingSettlerUnit": "Club Chairman",
     "startingWorkerCount": 1,
     "startingWorkerUnit": "Worker",
     "startingMilitaryUnit": "Hero",

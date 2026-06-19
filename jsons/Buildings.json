@@ -117,14 +117,6 @@
     "icon": "BuildingAtlas_256"
   },
   {
-    "name": "Analytics Department",
-    "science": 4,
-    "cost": 300,
-    "maintenance": 3,
-    "requiredTech": "Analytics Department",
-    "icon": "BuildingAtlas_256"
-  },
-  {
     "name": "State-of-the-Art Academy",
     "science": 3,
     "culture": 4,
@@ -222,7 +214,7 @@
     "requiredTech": "Analytics Department",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+15]% Science in all cities"
+      "[+15]% [Science] [in this city]"
     ]
   },
   {
@@ -247,7 +239,7 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "[+5] Culture in all cities",
-      "[+25]% Culture [in all cities]"
+      "[+25]% [Culture] [in this city]"
     ]
   },
   {
@@ -260,7 +252,7 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "[+1] Gold from Great Merchant points",
-      "Provides [3] Culture per Trade Route"
+      "[+3] [Culture] from Trade Routes"
     ]
   },
   {
@@ -273,7 +265,7 @@
     "requiredTech": "Elite Academies",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+25]% Great People generation",
+      "[+25]% Great Person generation [in this city]",
       "New [Civilian] units start with [5] XP [in this city]"
     ]
   },
@@ -285,8 +277,8 @@
     "requiredTech": "Corporate Hospitality",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+30]% Gold from international trade routes",
-      "[+2] Gold per Trade Route"
+      "[+30]% [Gold] from Trade Routes",
+      "[+2] [Gold] from Trade Routes"
     ]
   },
   {
@@ -299,7 +291,7 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "New [Military] units start with [20] XP [in this city]",
-      "[+10]% Production when building [Military] units"
+      "[+10]% Production when building [Military] units [in this city]"
     ]
   },
   {
@@ -312,7 +304,7 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "[+2] Gold from culture",
-      "Provides [2] Culture per Trade Route"
+      "[+3] [Culture] from Trade Routes"
     ]
   },
   {
@@ -325,7 +317,7 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "[+1] Tourism from culture",
-      "[+20]% Culture [in all cities]"
+      "[+20]% [Culture] [in this city]"
     ]
   },
   {
@@ -337,8 +329,8 @@
     "requiredTech": "Hospitality Suites",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+30]% Gold from all sources",
-      "[+2] Happiness [in all cities]"
+      "[+30]% [Gold] [in this city]",
+      "[+2] [Happiness]"
     ]
   },
   {
@@ -349,7 +341,7 @@
     "requiredTech": "Basic Drills",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+15]% Production when building [Military] units"
+      "[+15]% Production when building [Military] units [in this city]"
     ]
   },
   {
@@ -361,7 +353,7 @@
     "requiredTech": "Scouting Network",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+20]% Experience gain for non-combat units",
+      "[+15] XP for all [Military] units built in this city",
       "[+1] Science in all cities"
     ]
   },
@@ -374,21 +366,17 @@
     "requiredTech": "Security Theatre",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+25]% City Defense",
-      "[+2] Happiness when [2] Happiness below [0]"
+      "[+25]% Strength for the city"
     ]
   },
   {
     "name": "Ultra Support Center",
-    "culture": 4,
+    "culture": 3,
     "happiness": 2,
     "cost": 150,
     "maintenance": 1,
     "requiredTech": "Ultra Coordination",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+3] Culture in all cities",
-      "[+2] Happiness in all cities"
-    ]
+    "uniques": []
   }
 ]

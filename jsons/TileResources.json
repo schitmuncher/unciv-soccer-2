@@ -64,7 +64,7 @@
     "science": 1,
     "gold": 1,
     "uniques": [
-      "[+15]% Science in all cities"
+      "[+15]% [Science] [in all cities]"
     ]
   },
   {
@@ -82,7 +82,7 @@
     "happiness": 3,
     "gold": 3,
     "uniques": [
-      "Provides [2] Gold per Trade Route"
+      "[+2] [Gold] from Trade Routes"
     ]
   },
   {
@@ -91,7 +91,7 @@
     "happiness": 3,
     "culture": 3,
     "uniques": [
-      "[+25]% Great People generation"
+      "[+25]% Great Person generation [in all cities]"
     ]
   },
   {
@@ -100,7 +100,7 @@
     "gold": 5,
     "happiness": 2,
     "uniques": [
-      "Provides [1] Gold per Trade Route"
+      "[+1] [Gold] from Trade Routes"
     ]
   },
   {
@@ -109,7 +109,7 @@
     "production": 2,
     "happiness": 1,
     "uniques": [
-      "[+10]% Production when building [Military] units"
+      "[+10]% Production when building [Military] units [in all cities]"
     ]
   },
   {
@@ -119,7 +119,7 @@
     "culture": 1,
     "happiness": 2,
     "uniques": [
-      "Provides [2] Culture per Trade Route"
+      "[+2] [Culture] from Trade Routes"
     ]
   },
   {
@@ -129,7 +129,7 @@
     "happiness": 3,
     "uniques": [
       "[+50]% Culture [in capital]",
-      "Provides [3] Culture per Trade Route"
+      "[+3] [Culture] from Trade Routes"
     ]
   },
   {
@@ -148,7 +148,7 @@
     "culture": 1,
     "happiness": 2,
     "uniques": [
-      "[+1] Culture in all cities"
+      "[+1] [Culture] [in all cities]"
     ]
   },
   {
@@ -157,7 +157,7 @@
     "culture": 4,
     "happiness": 3,
     "uniques": [
-      "[+25]% Great People generation"
+      "[+25]% Great Person generation [in all cities]"
     ]
   },
   {
@@ -195,7 +195,7 @@
     "gold": 3,
     "happiness": 2,
     "uniques": [
-      "[+25]% Gold from international trade routes"
+      "[+25]% [Gold] from Trade Routes"
     ]
   },
   {
@@ -204,7 +204,7 @@
     "culture": 3,
     "happiness": 3,
     "uniques": [
-      "[+2] Culture in all cities"
+      "[+2] [Culture] [in all cities]"
     ]
   },
   {
@@ -214,7 +214,7 @@
     "science": 1,
     "happiness": 1,
     "uniques": [
-      "[+25]% Production towards units in this city"
+      "[+25]% Production when building [Military] units [in all cities]"
     ]
   },
   {
@@ -225,7 +225,7 @@
     "happiness": 2,
     "uniques": [
       "[+3] Gold per Trade Route",
-      "Provides [4] Culture per Trade Route"
+      "[+4] [Culture] from Trade Routes"
     ]
   }
 ]

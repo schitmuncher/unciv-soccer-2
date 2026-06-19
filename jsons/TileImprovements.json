@@ -150,7 +150,6 @@
     "turnsToBuild": 7,
     "techRequired": "Elite Academies",
     "uniques": [
-      "Provides [Local Talent] resource",
       "Pillaging this improvement yields approximately [+20 Gold]"
     ],
     "shortcutKey": "C"
@@ -176,7 +175,7 @@
     "shortcutKey": "O"
   },
   {
-    "name": "Hospitality Box",
+    "name": "VIP Hospitality Box",
     "terrainsCanBeBuiltOn": [
       "Plains",
       "Grassland",
@@ -188,7 +187,6 @@
     "turnsToBuild": 6,
     "techRequired": "Corporate Hospitality",
     "uniques": [
-      "Provides [Prawn Sandwiches] resource",
       "Pillaging this improvement yields approximately [+15 Gold]"
     ],
     "shortcutKey": "H"
