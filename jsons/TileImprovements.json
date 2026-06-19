@@ -126,7 +126,7 @@
     ]
   },
   {
-    "name": "Customs house",
+    "name": "Customs House",
     "terrainsCanBeBuiltOn": [
       "Land"
     ],
@@ -250,7 +250,7 @@
     "shortcutKey": "E"
   },
   {
-    "name": "Ancient ruins",
+    "name": "Ancient Ruins",
     "terrainsCanBeBuiltOn": [
       "Land"
     ],
@@ -262,7 +262,7 @@
     ]
   },
   {
-    "name": "City center",
+    "name": "City Center",
     "terrainsCanBeBuiltOn": [
       "Land"
     ],
@@ -275,7 +275,7 @@
     ]
   },
   {
-    "name": "Barbarian encampment",
+    "name": "Barbarian Encampment",
     "terrainsCanBeBuiltOn": [
       "Land"
     ],
