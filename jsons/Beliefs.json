@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Total Football",
+    "type": "Follower",
+    "uniques": [
+      "[+2 Science] [in all cities]",
+      "[+1 Culture] [in all cities]",
+      "New [Military] units start with [15] XP"
+    ]
+  },
+  {
+    "name": "Defensive Wall Philosophy",
+    "type": "Follower",
+    "uniques": [
+      "[+20]% Strength for cities <when defending>",
+      "[+10]% Strength <when defending> <for [All] units>",
+      "[+1 Happiness] [in all cities]"
+    ]
+  },
+  {
+    "name": "Counter-Attack Philosophy",
+    "type": "Follower",
+    "uniques": [
+      "[+15]% Strength <for [All] units> <when defending>",
+      "Units heal [5] HP when killing an enemy unit",
+      "[+1 Gold] [in all cities]"
+    ]
+  },
+  {
+    "name": "Possession Philosophy",
+    "type": "Follower",
+    "uniques": [
+      "[+20]% Gold [in all cities]",
+      "[+1 Science] [in all cities]",
+      "[+15]% Culture [in all cities]"
+    ]
+  },
+  {
+    "name": "4-3-3 Formation",
+    "type": "Follower",
+    "uniques": [
+      "[+1 Production] [in all cities]",
+      "[+1 Culture] [in all cities]",
+      "[+10]% Strength <for [All] units>"
+    ]
+  },
+  {
+    "name": "5-3-2 Formation",
+    "type": "Follower",
+    "uniques": [
+      "[+25]% Strength for cities <when defending>",
+      "[+2 Happiness] [in all cities]",
+      "New [Military] units start with [20] XP"
+    ]
+  },
+  {
+    "name": "High-Pressure Philosophy",
+    "type": "Follower",
+    "uniques": [
+      "[+20]% Strength <for [All] units>",
+      "[+10]% Production when building [Military] units [in all cities]",
+      "Units gain [1] XP from kills"
+    ]
+  },
+  {
+    "name": "Terrace Culture Belief",
+    "type": "Follower",
+    "uniques": [
+      "[+3 Culture] [in all cities]",
+      "[+2 Happiness] [in all cities]",
+      "Units in cities cost no Maintenance"
+    ]
+  },
+  {
+    "name": "Elite Academy Doctrine",
+    "type": "Follower",
+    "uniques": [
+      "[+25]% Great People generation",
+      "[+2 Science] [in all cities]",
+      "New [Military] units start with [25] XP"
+    ]
+  },
+  {
+    "name": "Commercial Success Belief",
+    "type": "Follower",
+    "uniques": [
+      "[+3 Gold] [in all cities]",
+      "[+20]% Gold [in all cities]",
+      "[+1 Diplomatic Visibility] with all civilizations"
+    ]
+  }
+]

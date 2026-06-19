@@ -1,1 +1,136 @@
-[]
+[
+  {
+    "name": "discover old fanzines",
+    "notification": "We have discovered legendary terrace lore in the ruins! (+20 culture)",
+    "uniques": [
+      "Gain [20] [Culture] <(modified by game speed)>"
+    ],
+    "color": "#cf8ff7"
+  },
+  {
+    "name": "volunteers report for duty",
+    "notification": "A [Groundstaff] crew has joined us!",
+    "uniques": [
+      "Free [Groundstaff] found in the ruins"
+    ]
+  },
+  {
+    "name": "backers ready to invest",
+    "notification": "A [Chairman] has agreed to bankroll a new ground!",
+    "uniques": [
+      "Free [Chairman] found in the ruins"
+    ]
+  },
+  {
+    "name": "your lad gets proper coaching",
+    "notification": "An old hardman taught our explorer a few tricks!",
+    "uniques": [
+      "[This Unit] gains [10] XP",
+      "Only available <after turn number [10]>"
+    ]
+  },
+  {
+    "name": "survivors add to the crowd",
+    "notification": "We found supporters in the ruins! Population added to [cityName].",
+    "uniques": [
+      "[+1] population in a random city"
+    ],
+    "color": "#81c784"
+  },
+  {
+    "name": "a tin full of transfer cash",
+    "notification": "",
+    "uniques": [
+      "Gain [50]-[100] [Gold] <(modified by game speed)>"
+    ],
+    "color": "#ffeb7f"
+  },
+  {
+    "name": "discover a forgotten drill",
+    "notification": "We have rediscovered the lost tactic of [techName] in the ruins!",
+    "uniques": [
+      "[1] free random researchable Tech(s) from the [Grassroots]"
+    ],
+    "color": "#7f7fff"
+  },
+  {
+    "name": "the lads find old gear",
+    "notification": "Our unit finds advanced terrace weaponry hidden in the ruins!",
+    "uniques": [
+      "[This Unit] upgrades for free including special upgrades"
+    ]
+  },
+  {
+    "name": "legendary manager emerges from retirement",
+    "notification": "A legendary manager has come out of retirement to lead our club!",
+    "uniques": [
+      "Free [Master Tactician] found in the ruins"
+    ],
+    "color": "#ff6b6b"
+  },
+  {
+    "name": "local star returns from abroad",
+    "notification": "Our club legend returns from an international career!",
+    "uniques": [
+      "Free [Club Legend] found in the ruins"
+    ],
+    "color": "#4ecdc4"
+  },
+  {
+    "name": "transfer deal materializes",
+    "notification": "An unexpected signing has arrived at the training ground!",
+    "uniques": [
+      "Free [Stone Island Shithouse] found in the ruins"
+    ],
+    "color": "#ffe66d"
+  },
+  {
+    "name": "academy prospects excel",
+    "notification": "Young prospects from the academy are ready for first team!",
+    "uniques": [
+      "Free [Youth Prospect] found in the ruins"
+    ],
+    "color": "#95e1d3"
+  },
+  {
+    "name": "historic trophy discovered",
+    "notification": "We have unearthed one of our club's greatest trophies!",
+    "uniques": [
+      "Gain [75] [Culture] <(modified by game speed)>"
+    ],
+    "color": "#ffd700"
+  },
+  {
+    "name": "rival manager scandal",
+    "notification": "A scandal has weakened a rival manager! Diplomatic advantage gained.",
+    "uniques": [
+      "Gain [20] [Diplomatic Visibility] with random civilization"
+    ],
+    "color": "#e74c3c"
+  },
+  {
+    "name": "stadium blueprints uncovered",
+    "notification": "Ancient stadium designs inspire a new structure!",
+    "uniques": [
+      "Free [Training Pitch] building appears in the city of [cityName]"
+    ],
+    "color": "#a29bfe"
+  },
+  {
+    "name": "historic derby match record",
+    "notification": "Records of an epic derby victory inspire the team!",
+    "uniques": [
+      "Gain [15] [Combat Experience] for all military units"
+    ],
+    "color": "#ff7675"
+  },
+  {
+    "name": "philanthropist investor",
+    "notification": "A wealthy philanthropist wants to invest in the club!",
+    "uniques": [
+      "Gain [100]-[200] [Gold] <(modified by game speed)>",
+      "Free [Chairman] found in the ruins"
+    ],
+    "color": "#fdcb6e"
+  }
+]

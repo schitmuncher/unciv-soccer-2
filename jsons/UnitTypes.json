@@ -14,5 +14,13 @@
   {
     "name": "Ranged",
     "movementType": "Land"
+  },
+  {
+    "name": "Cavalry",
+    "movementType": "Land"
+  },
+  {
+    "name": "Siege",
+    "movementType": "Land"
   }
 ]

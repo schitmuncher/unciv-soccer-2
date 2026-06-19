@@ -1,11 +1,48 @@
 [
   {
-    "name": "Domination",
-    "victoryScreenHeader": "Champions of the League",
-    "victoryString": "The world has succumbed to your tactical superiority! Your triumph will be remembered as long as men exist!",
-    "defeatString": "Your civilization has been overthrown, and your dreams of dominance are no more.",
+    "name": "Scientific",
+    "victoryScreenHeader": "Complete the Sky TV Deal and assemble the Super League to win!",
     "milestones": [
-      "Destroy all players"
-    ]
+      "Build [Apollo Program]",
+      "Add all [spaceship parts] in capital"
+    ],
+    "requiredSpaceshipParts": [
+      "SS Engine",
+      "SS Stasis Chamber",
+      "SS Cockpit",
+      "SS Booster",
+      "SS Booster",
+      "SS Booster"
+    ],
+    "victoryString": "You have bought the game, bent the boardrooms, and assembled the Super League. The sport now dances to your cheque book and your brand will be feared in every ground.",
+    "defeatString": "Another club got there first. The television money, the lawyers, and the global prestige slipped through your fingers."
+  },
+  {
+    "name": "Cultural",
+    "victoryScreenHeader": "Complete 5 club policy branches and build Wembley Stadium to win!",
+    "milestones": [
+      "Complete [5] Policy branches",
+      "Build [Utopia Project]"
+    ],
+    "victoryString": "Legendary Status is yours. Songs are sung about your side, your banners are immortal, and the whole country measures greatness by your name.",
+    "defeatString": "Your songs faded and the terraces chose another legend to adore."
+  },
+  {
+    "name": "Domination",
+    "victoryScreenHeader": "Capture every rival ground to win!",
+    "milestones": [
+      "Capture all capitals"
+    ],
+    "victoryString": "All rival grounds have fallen and your badge flies over every turnstile in the land. You are the only club left standing.",
+    "defeatString": "Your ground has been overrun and the club has vanished into bitter away-day folklore."
+  },
+  {
+    "name": "Time",
+    "hiddenInVictoryScreen": true,
+    "milestones": [
+      "Have highest score after max turns"
+    ],
+    "victoryString": "The season ended with you on top of the pile. It was ugly, exhausting, and utterly effective.",
+    "defeatString": "The final whistle blew with another club ahead of you."
   }
 ]

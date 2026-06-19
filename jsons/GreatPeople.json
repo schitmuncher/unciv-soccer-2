@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Great Footballer",
+    "unitType": "GreatPerson",
+    "cost": 200,
+    "era": "Grassroots",
+    "uniques": [
+      "[+5]% Strength <for [All] units>",
+      "[+15]% Production when constructing [All] wonders [in all cities]"
+    ]
+  },
+  {
+    "name": "Master Tactician",
+    "unitType": "GreatPerson",
+    "cost": 250,
+    "era": "Non-League",
+    "uniques": [
+      "[+15]% Science [in all cities]",
+      "[+1 Science] [in all cities]"
+    ]
+  },
+  {
+    "name": "Scout Master",
+    "unitType": "GreatPerson",
+    "cost": 180,
+    "era": "Grassroots",
+    "uniques": [
+      "[+20]% Experience gain for non-combat units",
+      "[+1] Sight <for [{Land}] units>"
+    ]
+  },
+  {
+    "name": "Media Mogul",
+    "unitType": "GreatPerson",
+    "cost": 220,
+    "era": "Football League",
+    "uniques": [
+      "[+30]% Tourism from culture",
+      "[+2 Culture] [in all cities]"
+    ]
+  },
+  {
+    "name": "Physio Legend",
+    "unitType": "GreatPerson",
+    "cost": 200,
+    "era": "Football League",
+    "uniques": [
+      "[This Unit] heals [100] HP <when above [50] HP>",
+      "[+10]% Healing for all friendly units"
+    ]
+  },
+  {
+    "name": "Director of Football",
+    "unitType": "GreatPerson",
+    "cost": 230,
+    "era": "Premier Era",
+    "uniques": [
+      "[+25]% Great People generation",
+      "[+2 Production] [in all cities]"
+    ]
+  },
+  {
+    "name": "Club Legend",
+    "unitType": "GreatPerson",
+    "cost": 240,
+    "era": "Premier Era",
+    "uniques": [
+      "[+5 Culture] [in capital]",
+      "[+25]% Culture [in all cities]",
+      "[+3] Diplomatic Visibility with all civilizations"
+    ]
+  },
+  {
+    "name": "Super League Billionaire",
+    "unitType": "GreatPerson",
+    "cost": 300,
+    "era": "Super League",
+    "uniques": [
+      "[+50]% Gold [in all cities]",
+      "[+5 Gold] [in all cities]"
+    ]
+  },
+  {
+    "name": "Grassroots Mentor",
+    "unitType": "GreatPerson",
+    "cost": 150,
+    "era": "Grassroots",
+    "uniques": [
+      "[+20]% Production towards [Civilian] units [in all cities]",
+      "[+1 Happiness] [in all cities]"
+    ]
+  },
+  {
+    "name": "International Star",
+    "unitType": "GreatPerson",
+    "cost": 270,
+    "era": "Premier Era",
+    "uniques": [
+      "[+3 Diplomatic Visibility] with all civilizations",
+      "[+4 Culture] [in capital]"
+    ]
+  }
+]
