@@ -4,7 +4,7 @@
     "resourceType": "Strategic",
     "production": 2,
     "uniques": [
-      "Improves units created here by [15]%"
+      "New [Military] units start with [15] XP [in this city]"
     ]
   },
   {
@@ -21,7 +21,7 @@
     "resourceType": "Strategic",
     "production": 1,
     "uniques": [
-      "Improves units created here by [10]%"
+      "New [Military] units start with [10] XP [in this city]"
     ]
   },
   {
@@ -46,7 +46,7 @@
     "gold": 3,
     "production": 1,
     "uniques": [
-      "[+1] Science per [2] population"
+      "[+1] [Science] per [2] population [in all cities]"
     ]
   },
   {
@@ -73,7 +73,7 @@
     "happiness": 3,
     "gold": 2,
     "uniques": [
-      "[+1] Happiness per [2] population"
+      "[+1] [Happiness] per [2] population [in all cities]"
     ]
   },
   {
@@ -128,7 +128,7 @@
     "culture": 3,
     "happiness": 3,
     "uniques": [
-      "[+50]% Culture [in capital]",
+      "[+50]% [Culture] <in [Capital]>",
       "[+3] [Culture] from Trade Routes"
     ]
   },
@@ -139,7 +139,7 @@
     "gold": 2,
     "happiness": 2,
     "uniques": [
-      "[+1] Tourism from culture"
+      "[+1] [Tourism] from [Culture]"
     ]
   },
   {
@@ -175,7 +175,7 @@
     "happiness": 4,
     "culture": 1,
     "uniques": [
-      "[+1] Happiness per [2] population"
+      "[+1] [Happiness] per [2] population [in all cities]"
     ]
   },
   {
@@ -185,7 +185,7 @@
     "gold": 2,
     "production": 1,
     "uniques": [
-      "[+20]% Experience gain for non-combat units"
+      "[+20]% Experience gain for all [Military] units [in all cities]"
     ]
   },
   {
@@ -224,7 +224,7 @@
     "culture": 2,
     "happiness": 2,
     "uniques": [
-      "[+3] Gold per Trade Route",
+      "[+3] [Gold] from Trade Routes",
       "[+4] [Culture] from Trade Routes"
     ]
   }

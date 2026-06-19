@@ -12,7 +12,7 @@
     "name": "Defensive Wall Philosophy",
     "type": "Follower",
     "uniques": [
-      "[+15]% Strength for the city",
+      "[+15]% Strength <for [All] units> <when defending>",
       "[+1] [Happiness] [in this city]"
     ]
   },

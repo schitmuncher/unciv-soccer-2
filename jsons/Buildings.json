@@ -251,7 +251,7 @@
     "requiredTech": "Broadcast Rights",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+1] Gold from Great Merchant points",
+      "[+1] [Gold] from Great Person points",
       "[+3] [Culture] from Trade Routes"
     ]
   },
@@ -303,7 +303,7 @@
     "requiredTech": "Shirt Sales",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+2] Gold from culture",
+      "[+2] [Gold] from [Culture]",
       "[+3] [Culture] from Trade Routes"
     ]
   },
@@ -316,7 +316,7 @@
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+1] Tourism from culture",
+      "[+1] [Tourism] from [Culture]",
       "[+20]% [Culture] [in this city]"
     ]
   },
@@ -353,7 +353,7 @@
     "requiredTech": "Scouting Network",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+15] XP for all [Military] units built in this city",
+      "New [Military] units start with [15] XP [in this city]",
       "[+1] [Science] [in all cities]"
     ]
   },
@@ -366,7 +366,7 @@
     "requiredTech": "Security Theatre",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+25]% Strength for the city"
+      "[+25]% Strength <for [All] units> <when defending>"
     ]
   },
   {
