@@ -462,7 +462,7 @@
     "preferredVictoryType": "Cultural",
     "uniqueName": "Theatre of Dreams",
     "uniques": [
-      "[+25]% Culture [in capital]",
+      "[+25]% [Culture] [in capital]",
       "[+15]% Production when building wonders"
     ],
     "cities": [
