@@ -13,7 +13,8 @@
     "uniques": [
       "Pillaging this improvement yields approximately [+10 Gold]"
     ],
-    "shortcutKey": "T"
+    "shortcutKey": "T",
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Turnstiles",
@@ -28,7 +29,8 @@
     "uniques": [
       "Pillaging this improvement yields approximately [+10 Gold]"
     ],
-    "shortcutKey": "U"
+    "shortcutKey": "U",
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Merch Stall",
@@ -45,7 +47,8 @@
     "uniques": [
       "Pillaging this improvement yields approximately [+10 Gold]"
     ],
-    "shortcutKey": "M"
+    "shortcutKey": "M",
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Practice Pitch",
@@ -60,7 +63,8 @@
     "uniques": [
       "Pillaging this improvement yields approximately [+18 Gold]"
     ],
-    "shortcutKey": "P"
+    "shortcutKey": "P",
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Security Fence",
@@ -73,7 +77,8 @@
       "Can be built outside your borders",
       "Gives a defensive bonus of [25]%"
     ],
-    "shortcutKey": "S"
+    "shortcutKey": "S",
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Road",
@@ -86,7 +91,8 @@
       "Can be built outside your borders",
       "Costs [1] [Gold] per turn when in your territory"
     ],
-    "shortcutKey": "R"
+    "shortcutKey": "R",
+    "icon": "RoadAtlas_256"
   },
   {
     "name": "Railroad",
@@ -99,7 +105,8 @@
       "Can be built outside your borders",
       "Costs [2] [Gold] per turn when in your territory"
     ],
-    "shortcutKey": "R"
+    "shortcutKey": "R",
+    "icon": "RailroadAtlas_256"
   },
   {
     "name": "Academy",
@@ -111,7 +118,8 @@
       "Great Improvement",
       "Will not be replaced by automated units",
       "Removes removable features when built"
-    ]
+    ],
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Landmark",
@@ -123,7 +131,8 @@
       "Great Improvement",
       "Will not be replaced by automated units",
       "Removes removable features when built"
-    ]
+    ],
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Customs House",
@@ -135,7 +144,8 @@
       "Great Improvement",
       "Will not be replaced by automated units",
       "Removes removable features when built"
-    ]
+    ],
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Training Camp",
@@ -152,7 +162,8 @@
     "uniques": [
       "Pillaging this improvement yields approximately [+20 Gold]"
     ],
-    "shortcutKey": "C"
+    "shortcutKey": "C",
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Scouting Post",
@@ -172,7 +183,8 @@
       "Can be built outside your borders",
       "Pillaging this improvement yields approximately [+8 Gold]"
     ],
-    "shortcutKey": "O"
+    "shortcutKey": "O",
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "VIP Hospitality Box",
@@ -189,7 +201,8 @@
     "uniques": [
       "Pillaging this improvement yields approximately [+15 Gold]"
     ],
-    "shortcutKey": "H"
+    "shortcutKey": "H",
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Remove Forest",
@@ -199,7 +212,8 @@
       "Can be built outside your borders",
       "Excluded from map editor"
     ],
-    "shortcutKey": "X"
+    "shortcutKey": "X",
+    "icon": "RoadAtlas_256"
   },
   {
     "name": "Remove Marsh",
@@ -209,7 +223,8 @@
       "Can be built outside your borders",
       "Excluded from map editor"
     ],
-    "shortcutKey": "X"
+    "shortcutKey": "X",
+    "icon": "RoadAtlas_256"
   },
   {
     "name": "Remove Road",
@@ -217,7 +232,8 @@
     "uniques": [
       "Can be built outside your borders",
       "Excluded from map editor"
-    ]
+    ],
+    "icon": "RoadAtlas_256"
   },
   {
     "name": "Remove Railroad",
@@ -225,7 +241,8 @@
     "uniques": [
       "Can be built outside your borders",
       "Excluded from map editor"
-    ]
+    ],
+    "icon": "RoadAtlas_256"
   },
   {
     "name": "Cancel improvement order",
@@ -233,7 +250,8 @@
       "Can be built outside your borders",
       "Excluded from map editor"
     ],
-    "shortcutKey": "."
+    "shortcutKey": ".",
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Repair",
@@ -245,7 +263,8 @@
       "Unbuildable",
       "Excluded from map editor"
     ],
-    "shortcutKey": "E"
+    "shortcutKey": "E",
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Ancient Ruins",
@@ -257,7 +276,8 @@
       "Provides a random bonus when entered",
       "Unbuildable",
       "Does not need removal of [Forest]"
-    ]
+    ],
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "City Center",
@@ -270,7 +290,8 @@
       "Irremovable",
       "Unbuildable",
       "Excluded from map editor"
-    ]
+    ],
+    "icon": "ImprovementAtlas_256"
   },
   {
     "name": "Barbarian Encampment",
@@ -281,6 +302,7 @@
       "Unpillagable",
       "Unbuildable",
       "Excluded from map editor"
-    ]
+    ],
+    "icon": "ImprovementAtlas_256"
   }
 ]

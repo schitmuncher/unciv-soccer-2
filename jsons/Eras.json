@@ -9,7 +9,8 @@
     "startingWorkerUnit": "Worker",
     "startingMilitaryUnit": "Youth Scout",
     "startPercent": 0,
-    "uniques": []
+    "uniques": [],
+    "icon": "EraAtlas_256"
   },
   {
     "name": "Non-League",
@@ -24,7 +25,8 @@
     "startingWorkerUnit": "Worker",
     "startingMilitaryUnit": "Warrior",
     "startPercent": 20,
-    "uniques": []
+    "uniques": [],
+    "icon": "EraAtlas_256"
   },
   {
     "name": "Football League",
@@ -42,7 +44,8 @@
     "startingWorkerUnit": "Worker",
     "startingMilitaryUnit": "Swordsman",
     "startPercent": 40,
-    "uniques": []
+    "uniques": [],
+    "icon": "EraAtlas_256"
   },
   {
     "name": "Premier Era",
@@ -66,7 +69,8 @@
     "startingWorkerUnit": "Worker",
     "startingMilitaryUnit": "Longswordsman",
     "startPercent": 65,
-    "uniques": []
+    "uniques": [],
+    "icon": "EraAtlas_256"
   },
   {
     "name": "Super League",
@@ -99,6 +103,7 @@
     "startingWorkerUnit": "Worker",
     "startingMilitaryUnit": "Hero",
     "startPercent": 85,
-    "uniques": []
+    "uniques": [],
+    "icon": "EraAtlas_256"
   }
 ]
