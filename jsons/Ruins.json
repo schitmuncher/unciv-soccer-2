@@ -49,7 +49,7 @@
     "name": "discover a forgotten drill",
     "notification": "We have rediscovered the lost tactic of [techName] in the ruins!",
     "uniques": [
-      "[1] free random researchable Tech(s) from the [Grassroots]"
+      "Discover a Technology"
     ],
     "color": "#7f7fff"
   },
@@ -88,7 +88,7 @@
     "name": "academy prospects excel",
     "notification": "We have discovered the lost technology of [techName] in the ruins!",
     "uniques": [
-      "[1] free random researchable Tech(s) from the [Ancient Era]"
+      "Discover a Technology"
     ],
     "color": "#95e1d3"
   },
@@ -120,7 +120,7 @@
     "name": "historic derby match record",
     "notification": "We have discovered the lost technology of [techName] in the ruins!",
     "uniques": [
-      "[1] free random researchable Tech(s) from the [Ancient Era]"
+      "Discover a Technology"
     ],
     "color": "#ff7675"
   },

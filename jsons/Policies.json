@@ -25,7 +25,7 @@
       {
         "name": "Banner Wall",
         "uniques": [
-          "[+15]% Production when building [Wonder] wonders [in all cities]"
+          "[+15]% Production when building wonders [in all cities]"
         ],
         "row": 1,
         "column": 3
@@ -100,7 +100,7 @@
         ],
         "uniques": [
           "[+5]% [Science] [in all cities]",
-          "[+10]% Science [in capital]"
+          "[+10]% [Science] [in capital]"
         ],
         "row": 2,
         "column": 2
@@ -217,7 +217,7 @@
       {
         "name": "Mob Rules",
         "uniques": [
-          "[+10]% Production when building [Military] units [in all cities]",
+          "[+10]% Production when building [Land] units [in all cities]",
           "[+10]% Strength <when defending> <for [All] units>"
         ],
         "row": 1,
@@ -241,7 +241,7 @@
         ],
         "uniques": [
           "[+20]% Strength <when defending> <for [All] units>",
-          "Units heal [50] HP when killing a unit"
+          "[+15]% Strength <when attacking>"
         ],
         "row": 2,
         "column": 4
@@ -286,7 +286,7 @@
       {
         "name": "Wage Bill Explosion",
         "uniques": [
-          "[+15]% Production when building [Military] units [in all cities]"
+          "[+15]% Production when building [Land] units [in all cities]"
         ],
         "row": 1,
         "column": 3
@@ -298,7 +298,7 @@
         ],
         "uniques": [
           "[+25]% [Gold] [in capital]",
-          "[+25]% Gold from international trade routes"
+          "[+25]% [Gold] from international trade routes"
         ],
         "row": 2,
         "column": 2
@@ -361,7 +361,7 @@
       {
         "name": "Set-Piece Mastery",
         "uniques": [
-          "[+20]% Production when building [Military] units [in all cities]"
+          "[+20]% Production when building [Land] units [in all cities]"
         ],
         "row": 2,
         "column": 2,
@@ -400,7 +400,7 @@
       "Scientific": 15
     },
     "uniques": [
-      "[+15]% [Gold] from Trade Routes [in all cities]",
+      "[+15]% [Gold] from Trade Routes",
       "[+5]% [Culture] [in all cities]"
     ],
     "policies": [
@@ -415,7 +415,7 @@
       {
         "name": "Continental Sponsorships",
         "uniques": [
-          "[+10]% [Gold] from Trade Routes [in all cities]"
+          "[+10]% [Gold] from Trade Routes"
         ],
         "row": 1,
         "column": 3
@@ -432,7 +432,7 @@
       {
         "name": "Global Merchandise",
         "uniques": [
-          "[+20]% Gold [in all cities]"
+          "[+20]% [Gold] [in all cities]"
         ],
         "row": 2,
         "column": 4,
@@ -443,7 +443,7 @@
       {
         "name": "International Ambition Complete",
         "uniques": [
-          "[+15]% [Gold] from Trade Routes [in all cities]"
+          "[+15]% [Gold] from Trade Routes"
         ]
       }
     ]
@@ -522,13 +522,13 @@
       "Scientific": 10
     },
     "uniques": [
-      "[+15]% Gold [in all cities]"
+      "[+15]% [Gold] [in all cities]"
     ],
     "policies": [
       {
         "name": "Salary Cap Regulation",
         "uniques": [
-          "[+10]% Gold [in all cities]"
+          "[+10]% [Gold] [in all cities]"
         ],
         "row": 1,
         "column": 1
@@ -536,7 +536,7 @@
       {
         "name": "Revenue Sharing",
         "uniques": [
-          "[+5]% [Gold] from Trade Routes [in all cities]"
+          "[+5]% [Gold] from Trade Routes"
         ],
         "row": 1,
         "column": 3
@@ -564,7 +564,7 @@
       {
         "name": "Financial Fair Play Complete",
         "uniques": [
-          "[+20]% Gold [in all cities]"
+          "[+20]% [Gold] [in all cities]"
         ]
       }
     ]
@@ -581,7 +581,7 @@
     },
     "uniques": [
       "[+20]% [Culture] [in all cities]",
-      "[+15]% Culture [in all cities]"
+      "[+15]% [Culture] [in all cities]"
     ],
     "policies": [
       {
@@ -626,8 +626,7 @@
       {
         "name": "Stadium Legacy Complete",
         "uniques": [
-          "[+25]% [Culture] [in all cities]",
-          "[+25]% Culture [in all cities]"
+          "[+25]% [Culture] [in all cities]"
         ]
       }
     ]

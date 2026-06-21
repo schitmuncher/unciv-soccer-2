@@ -88,7 +88,7 @@
     "uniqueName": "The Howe Effect",
     "uniques": [
       "[+10]% growth [in all cities]",
-      "[+15]% Production when building [Military] units [in all cities]"
+      "[+15]% Production when building [Land] units [in all cities]"
     ],
     "cities": [
       "Vitality Stadium",
@@ -383,7 +383,7 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "You'll Never Walk Alone",
     "uniques": [
-      "Units heal [50] HP when killing a unit",
+      "[+15]% Strength <when attacking>",
       "[+2 Culture] [in all cities]"
     ],
     "cities": [
@@ -580,8 +580,8 @@
     "preferredVictoryType": "Cultural",
     "uniqueName": "Spursy",
     "uniques": [
-      "[+20]% Production when building [Military] units [in all cities]",
-      "[+15]% Science [in capital]"
+      "[+20]% Production when building [Land] units [in all cities]",
+      "[+15]% [Science] [in capital]"
     ],
     "cities": [
       "Tottenham Hotspur Stadium",
