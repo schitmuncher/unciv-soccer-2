@@ -88,7 +88,7 @@
     "name": "academy prospects excel",
     "notification": "We have discovered the lost technology of [techName] in the ruins!",
     "uniques": [
-      "[1] free random researchable Tech(s) from the [Ancient era]"
+      "[1] free random researchable Tech(s) from the [Ancient Era]"
     ],
     "color": "#95e1d3"
   },
@@ -120,7 +120,7 @@
     "name": "historic derby match record",
     "notification": "We have discovered the lost technology of [techName] in the ruins!",
     "uniques": [
-      "[1] free random researchable Tech(s) from the [Ancient era]"
+      "[1] free random researchable Tech(s) from the [Ancient Era]"
     ],
     "color": "#ff7675"
   },

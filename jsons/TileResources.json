@@ -2,27 +2,18 @@
   {
     "name": "Local Talent",
     "resourceType": "Strategic",
-    "production": 2,
-    "uniques": [
-      "New [Military] units start with [15] XP [in this city]"
-    ]
+    "production": 2
   },
   {
     "name": "Foreign Investors",
     "resourceType": "Strategic",
     "gold": 3,
-    "production": 1,
-    "uniques": [
-      "[+2] Happiness [in all cities]"
-    ]
+    "production": 1
   },
   {
     "name": "Pitch Quality",
     "resourceType": "Strategic",
-    "production": 1,
-    "uniques": [
-      "New [Military] units start with [10] XP [in this city]"
-    ]
+    "production": 1
   },
   {
     "name": "Players",
@@ -35,197 +26,132 @@
   {
     "name": "Stadium Capacity",
     "resourceType": "Strategic",
-    "production": 1,
-    "uniques": [
-      "[+2] Happiness [in all cities]"
-    ]
+    "production": 1
   },
   {
     "name": "Broadcast Rights",
     "resourceType": "Strategic",
     "gold": 3,
-    "production": 1,
-    "uniques": [
-      "[+1] [Science] per [2] population [in all cities]"
-    ]
+    "production": 1
   },
   {
     "name": "Elite Training Academy",
     "resourceType": "Strategic",
     "science": 2,
-    "production": 1,
-    "uniques": [
-      "New [Military] units start with [25] XP"
-    ]
+    "production": 1
   },
   {
     "name": "Tactical Database",
     "resourceType": "Strategic",
     "science": 1,
-    "gold": 1,
-    "uniques": [
-      "[+15]% [Science] [in all cities]"
-    ]
+    "gold": 1
   },
   {
     "name": "Craft Beer",
     "resourceType": "Luxury",
     "happiness": 3,
-    "gold": 2,
-    "uniques": [
-      "[+1] [Happiness] per [2] population [in all cities]"
-    ]
+    "gold": 2
   },
   {
     "name": "Prawn Sandwiches",
     "resourceType": "Luxury",
     "happiness": 3,
-    "gold": 3,
-    "uniques": [
-      "[+2] [Gold] from Trade Routes"
-    ]
+    "gold": 3
   },
   {
     "name": "Vintage Kits",
     "resourceType": "Luxury",
     "happiness": 3,
-    "culture": 3,
-    "uniques": [
-      "[+25]% Great Person generation [in all cities]"
-    ]
+    "culture": 3
   },
   {
     "name": "Sponsorship Deal",
     "resourceType": "Luxury",
     "gold": 5,
-    "happiness": 2,
-    "uniques": [
-      "[+1] [Gold] from Trade Routes"
-    ]
+    "happiness": 2
   },
   {
     "name": "Training Facilities",
     "resourceType": "Luxury",
     "production": 2,
-    "happiness": 1,
-    "uniques": [
-      "[+10]% Production when building [Military] units [in all cities]"
-    ]
+    "happiness": 1
   },
   {
     "name": "Fan Merchandise",
     "resourceType": "Luxury",
     "gold": 4,
     "culture": 1,
-    "happiness": 2,
-    "uniques": [
-      "[+2] [Culture] from Trade Routes"
-    ]
+    "happiness": 2
   },
   {
     "name": "Historic Trophy",
     "resourceType": "Luxury",
     "culture": 3,
-    "happiness": 3,
-    "uniques": [
-      "[+50]% [Culture] <in [Capital]>",
-      "[+3] [Culture] from Trade Routes"
-    ]
+    "happiness": 3
   },
   {
     "name": "Media Hype",
     "resourceType": "Luxury",
     "culture": 2,
     "gold": 2,
-    "happiness": 2,
-    "uniques": [
-      "[+1] [Tourism] from [Culture]"
-    ]
+    "happiness": 2
   },
   {
     "name": "Terraced Stands",
     "resourceType": "Luxury",
     "culture": 1,
-    "happiness": 2,
-    "uniques": [
-      "[+1] [Culture] [in all cities]"
-    ]
+    "happiness": 2
   },
   {
     "name": "Championship Pedigree",
     "resourceType": "Luxury",
     "culture": 4,
-    "happiness": 3,
-    "uniques": [
-      "[+25]% Great Person generation [in all cities]"
-    ]
+    "happiness": 3
   },
   {
     "name": "Winning Mentality",
     "resourceType": "Luxury",
     "gold": 3,
-    "happiness": 2,
-    "uniques": [
-      "[+10]% Strength for all units"
-    ]
+    "happiness": 2
   },
   {
     "name": "Community Support",
     "resourceType": "Luxury",
     "happiness": 4,
-    "culture": 1,
-    "uniques": [
-      "[+1] [Happiness] per [2] population [in all cities]"
-    ]
+    "culture": 1
   },
   {
     "name": "Elite Scouting Network",
     "resourceType": "Luxury",
     "science": 1,
     "gold": 2,
-    "production": 1,
-    "uniques": [
-      "[+20]% Experience gain for all [Military] units [in all cities]"
-    ]
+    "production": 1
   },
   {
     "name": "Club Prestige",
     "resourceType": "Luxury",
     "culture": 2,
     "gold": 3,
-    "happiness": 2,
-    "uniques": [
-      "[+25]% [Gold] from Trade Routes"
-    ]
+    "happiness": 2
   },
   {
     "name": "Passionate Fanbase",
     "resourceType": "Luxury",
     "culture": 3,
-    "happiness": 3,
-    "uniques": [
-      "[+2] [Culture] [in all cities]"
-    ]
+    "happiness": 3
   },
   {
     "name": "State-of-the-Art Facilities",
     "resourceType": "Luxury",
     "production": 2,
     "science": 1,
-    "happiness": 1,
-    "uniques": [
-      "[+25]% Production when building [Military] units [in all cities]"
-    ]
+    "happiness": 1
   },
   {
     "name": "International Reputation",
     "resourceType": "Luxury",
     "gold": 4,
     "culture": 2,
-    "happiness": 2,
-    "uniques": [
-      "[+3] [Gold] from Trade Routes",
-      "[+4] [Culture] from Trade Routes"
-    ]
+    "happiness": 2
   }
 ]

@@ -3,8 +3,8 @@
     "name": "Total Football Doctrine",
     "type": "Follower",
     "uniques": [
-      "[+2] [Science] [in all cities]",
-      "[+1] [Culture] [in all cities]",
+      "[+10]% [Science] [in all cities]",
+      "[+5]% [Culture] [in all cities]",
       "New [Military] units start with [15] XP [in this city]"
     ]
   },
@@ -12,16 +12,14 @@
     "name": "Defensive Wall Philosophy",
     "type": "Follower",
     "uniques": [
-      "[+15]% Strength <for [All] units> <when defending>",
-      "[+1] [Happiness] [in this city]"
+      "[+5]% [Happiness] [in this city]"
     ]
   },
   {
     "name": "Counter-Attack Philosophy",
     "type": "Follower",
     "uniques": [
-      "[+15]% Strength <for [All] units> <when defending>",
-      "[+1] [Gold] [in all cities]"
+      "[+5]% [Gold] [in all cities]"
     ]
   },
   {
@@ -29,7 +27,7 @@
     "type": "Follower",
     "uniques": [
       "[+20]% [Gold] [in this city]",
-      "[+1] [Science] [in all cities]",
+      "[+5]% [Science] [in all cities]",
       "[+15]% [Culture] [in this city]"
     ]
   },
@@ -37,9 +35,8 @@
     "name": "4-3-3 Formation",
     "type": "Follower",
     "uniques": [
-      "[+1] [Production] [in all cities]",
-      "[+1] [Culture] [in all cities]",
-      "[+10]% Strength <for [All] units>"
+      "[+5]% [Production] [in all cities]",
+      "[+5]% [Culture] [in all cities]"
     ]
   },
   {
@@ -47,7 +44,7 @@
     "type": "Follower",
     "uniques": [
       "[+25]% Strength for cities <when defending>",
-      "[+2 Happiness] [in all cities]",
+      "[+10]% [Happiness] [in all cities]",
       "New [Military] units start with [15] XP [in this city]"
     ]
   },
@@ -55,7 +52,6 @@
     "name": "High-Pressure Philosophy",
     "type": "Follower",
     "uniques": [
-      "[+20]% Strength <for [All] units>",
       "[+10]% [Production] [in this city]"
     ]
   },
@@ -63,8 +59,8 @@
     "name": "Terrace Culture Belief",
     "type": "Follower",
     "uniques": [
-      "[+3 Culture] [in all cities]",
-      "[+2 Happiness] [in all cities]"
+      "[+15]% [Culture] [in all cities]",
+      "[+10]% [Happiness] [in all cities]"
     ]
   },
   {
@@ -72,7 +68,7 @@
     "type": "Follower",
     "uniques": [
       "[+25]% Great Person generation [in this city]",
-      "[+2] [Science] [in all cities]",
+      "[+10]% [Science] [in all cities]",
       "New [Military] units start with [15] XP [in this city]"
     ]
   },
@@ -80,7 +76,6 @@
     "name": "Commercial Success Belief",
     "type": "Follower",
     "uniques": [
-      "[+3 Gold] [in all cities]",
       "[+20]% [Gold] [in this city]"
     ]
   }

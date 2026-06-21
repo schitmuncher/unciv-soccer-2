@@ -202,7 +202,6 @@
     "science": 1,
     "requiredTech": "Sports Science",
     "icon": "BuildingAtlas_256",
-    "uniques": [],
     "cost": 130
   },
   {
@@ -238,7 +237,6 @@
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+5] [Culture] [in all cities]",
       "[+25]% [Culture] [in this city]"
     ]
   },
@@ -249,11 +247,7 @@
     "cost": 120,
     "maintenance": 1,
     "requiredTech": "Broadcast Rights",
-    "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+1] [Gold] from Great Person points",
-      "[+3] [Culture] from Trade Routes"
-    ]
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Youth Development Center",
@@ -277,8 +271,7 @@
     "requiredTech": "Corporate Hospitality",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+30]% [Gold] from Trade Routes",
-      "[+2] [Gold] from Trade Routes"
+      "[+30]% [Gold] from Trade Routes"
     ]
   },
   {
@@ -301,11 +294,7 @@
     "cost": 160,
     "maintenance": 1,
     "requiredTech": "Shirt Sales",
-    "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+2] [Gold] from [Culture]",
-      "[+3] [Culture] from Trade Routes"
-    ]
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Media Center",
@@ -316,7 +305,6 @@
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+1] [Tourism] from [Culture]",
       "[+20]% [Culture] [in this city]"
     ]
   },
@@ -329,8 +317,7 @@
     "requiredTech": "Hospitality Suites",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+30]% [Gold] [in this city]",
-      "[+2] [Happiness] [in all cities]"
+      "[+30]% [Gold] [in this city]"
     ]
   },
   {
@@ -353,8 +340,7 @@
     "requiredTech": "Scouting Network",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "New [Military] units start with [15] XP [in this city]",
-      "[+1] [Science] [in all cities]"
+      "New [Military] units start with [15] XP [in this city]"
     ]
   },
   {
@@ -376,7 +362,6 @@
     "cost": 150,
     "maintenance": 1,
     "requiredTech": "Ultra Coordination",
-    "icon": "BuildingAtlas_256",
-    "uniques": []
+    "icon": "BuildingAtlas_256"
   }
 ]
