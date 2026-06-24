@@ -74,7 +74,7 @@
   },
   {
     "name": "Bottle Thrower",
-    "unitType": "Archer",
+    "unitType": "Ranged",
     "movement": 2,
     "strength": 7,
     "rangedStrength": 12,
@@ -88,7 +88,7 @@
   },
   {
     "name": "Flare Sniper",
-    "unitType": "Archer",
+    "unitType": "Ranged",
     "movement": 2,
     "strength": 8,
     "rangedStrength": 14,
@@ -99,7 +99,7 @@
   },
   {
     "name": "Set-Piece Specialist",
-    "unitType": "Archer",
+    "unitType": "Ranged",
     "movement": 2,
     "strength": 11,
     "rangedStrength": 24,
