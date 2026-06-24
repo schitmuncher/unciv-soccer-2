@@ -73,13 +73,13 @@
     "icon": "SwordmanAtlas_256"
   },
   {
-    "name": "Archer",
-    "unitType": "Ranged",
+    "name": "Bottle Thrower",
+    "unitType": "Archer",
     "movement": 2,
     "strength": 7,
     "rangedStrength": 12,
     "range": 2,
-    "requiredTech": "Pub Meetups",
+    "requiredTech": "Set-Piece Routines",
     "cost": 60,
     "uniques": [
       "[+25]% Strength <when defending>"
@@ -87,24 +87,24 @@
     "icon": "ArcherAtlas_256"
   },
   {
-    "name": "Composite Bowman",
-    "unitType": "Ranged",
+    "name": "Flare Sniper",
+    "unitType": "Archer",
     "movement": 2,
     "strength": 8,
     "rangedStrength": 14,
     "range": 2,
-    "requiredTech": "Offside Trap",
+    "requiredTech": "Advanced Ballistics",
     "cost": 80,
     "icon": "ArcherAtlas_256"
   },
   {
-    "name": "Crossbowman",
-    "unitType": "Ranged",
+    "name": "Set-Piece Specialist",
+    "unitType": "Archer",
     "movement": 2,
     "strength": 11,
     "rangedStrength": 24,
     "range": 2,
-    "requiredTech": "Pyro Culture",
+    "requiredTech": "Tactical Analysis",
     "cost": 130,
     "uniques": [
       "[+33]% Strength <vs cities>"
@@ -169,13 +169,13 @@
     "icon": "HorsemanAtlas_256"
   },
   {
-    "name": "Catapult",
+    "name": "Turnstile Breaker",
     "unitType": "Siege",
     "movement": 2,
     "strength": 12,
     "rangedStrength": 20,
     "range": 2,
-    "requiredTech": "Firm Organization",
+    "requiredTech": "Missile Deployment",
     "cost": 120,
     "uniques": [
       "Must set up to ranged attack",
@@ -184,13 +184,13 @@
     "icon": "CatapultAtlas_256"
   },
   {
-    "name": "Trebuchet",
+    "name": "Megaphone Agitator",
     "unitType": "Siege",
     "movement": 2,
     "strength": 16,
     "rangedStrength": 34,
     "range": 2,
-    "requiredTech": "Pressing Triggers",
+    "requiredTech": "Ultras Integration",
     "cost": 220,
     "uniques": [
       "Must set up to ranged attack",

@@ -363,5 +363,67 @@
     "maintenance": 1,
     "requiredTech": "Ultra Coordination",
     "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Scout Office",
+    "production": 2,
+    "science": 1,
+    "gold": 1,
+    "cost": 95,
+    "maintenance": 1,
+    "requiredTech": "Foreign Scouting",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+15]% [Gold] from Trade Routes"
+    ]
+  },
+  {
+    "name": "Set-Piece Academy",
+    "science": 2,
+    "production": 1,
+    "cost": 110,
+    "maintenance": 1,
+    "requiredTech": "Set-Piece Routines",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "New [Military] units start with [25] XP [in this city]"
+    ]
+  },
+  {
+    "name": "Sports Recovery Center",
+    "gold": 2,
+    "happiness": 1,
+    "science": 1,
+    "cost": 120,
+    "maintenance": 1,
+    "requiredTech": "Sports Medicine",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "All adjacent units heal [+10] HP when healing"
+    ]
+  },
+  {
+    "name": "Broadcasting Booth",
+    "gold": 2,
+    "culture": 2,
+    "cost": 105,
+    "maintenance": 1,
+    "requiredTech": "Media Rights",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+20]% [Gold] [in this city]"
+    ]
+  },
+  {
+    "name": "Analysis Lab",
+    "science": 3,
+    "production": 1,
+    "cost": 135,
+    "maintenance": 2,
+    "requiredTech": "Tactical Analysis",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+15]% [Science] [in this city]"
+    ]
   }
 ]

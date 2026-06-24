@@ -148,8 +148,8 @@
     "era": "Football League",
     "techs": [
       {
-        "name": "Broadcast Rights",
-        "cost": 240,
+        "name": "Foreign Scouting",
+        "cost": 105,
         "row": 1,
         "prerequisites": [
           "Transfer Window"
@@ -157,8 +157,8 @@
         "uniques": []
       },
       {
-        "name": "Set-Piece Laboratories",
-        "cost": 240,
+        "name": "Set-Piece Routines",
+        "cost": 105,
         "row": 2,
         "prerequisites": [
           "Park the Bus"
@@ -166,8 +166,8 @@
         "uniques": []
       },
       {
-        "name": "Stadium Hostility",
-        "cost": 240,
+        "name": "Sports Medicine",
+        "cost": 105,
         "row": 3,
         "prerequisites": [
           "Firm Organization"
@@ -178,6 +178,138 @@
   },
   {
     "columnNumber": 6,
+    "era": "Football League",
+    "techs": [
+      {
+        "name": "Media Rights",
+        "cost": 125,
+        "row": 1,
+        "prerequisites": [
+          "Foreign Scouting"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "Tactical Analysis",
+        "cost": 125,
+        "row": 2,
+        "prerequisites": [
+          "Set-Piece Routines"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "Firm Unification",
+        "cost": 125,
+        "row": 3,
+        "prerequisites": [
+          "Sports Medicine"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 7,
+    "era": "Football League",
+    "techs": [
+      {
+        "name": "Tactical Periodization",
+        "cost": 145,
+        "row": 1,
+        "prerequisites": [
+          "Media Rights"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "Ultras Integration",
+        "cost": 145,
+        "row": 2,
+        "prerequisites": [
+          "Tactical Analysis"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "Fan Engagement",
+        "cost": 145,
+        "row": 3,
+        "prerequisites": [
+          "Firm Unification"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 8,
+    "era": "Football League",
+    "techs": [
+      {
+        "name": "Semi-Professional Development",
+        "cost": 165,
+        "row": 1,
+        "prerequisites": [
+          "Tactical Periodization"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "Advanced Ballistics",
+        "cost": 165,
+        "row": 2,
+        "prerequisites": [
+          "Ultras Integration"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "Missile Deployment",
+        "cost": 165,
+        "row": 3,
+        "prerequisites": [
+          "Fan Engagement"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 9,
+    "era": "Football League",
+    "techs": [
+      {
+        "name": "Broadcast Rights",
+        "cost": 240,
+        "row": 1,
+        "prerequisites": [
+          "Semi-Professional Development"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "Set-Piece Laboratories",
+        "cost": 240,
+        "row": 2,
+        "prerequisites": [
+          "Advanced Ballistics"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "Stadium Hostility",
+        "cost": 240,
+        "row": 3,
+        "prerequisites": [
+          "Missile Deployment"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 10,
     "era": "Football League",
     "techs": [
       {
@@ -210,7 +342,7 @@
     ]
   },
   {
-    "columnNumber": 7,
+    "columnNumber": 11,
     "era": "Football League",
     "techs": [
       {
@@ -243,7 +375,7 @@
     ]
   },
   {
-    "columnNumber": 8,
+    "columnNumber": 12,
     "era": "Premier Era",
     "techs": [
       {
@@ -276,7 +408,7 @@
     ]
   },
   {
-    "columnNumber": 9,
+    "columnNumber": 13,
     "era": "Premier Era",
     "techs": [
       {
@@ -309,7 +441,7 @@
     ]
   },
   {
-    "columnNumber": 10,
+    "columnNumber": 14,
     "era": "Premier Era",
     "techs": [
       {
@@ -342,7 +474,7 @@
     ]
   },
   {
-    "columnNumber": 11,
+    "columnNumber": 15,
     "era": "Super League",
     "techs": [
       {
@@ -375,7 +507,7 @@
     ]
   },
   {
-    "columnNumber": 12,
+    "columnNumber": 16,
     "era": "Super League",
     "techs": [
       {
