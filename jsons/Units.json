@@ -1,6 +1,6 @@
 [
   {
-    "name": "Club Chairman",
+    "name": "Settler",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 80,
@@ -22,7 +22,7 @@
     "icon": "SettlerAtlas_256"
   },
   {
-    "name": "Youth Scout",
+    "name": "Scout",
     "unitType": "Scout",
     "movement": 3,
     "strength": 5,
@@ -61,7 +61,7 @@
     "icon": "SwordmanAtlas_256"
   },
   {
-    "name": "Hero",
+    "name": "Musketman",
     "unitType": "Melee",
     "movement": 2,
     "strength": 52,
@@ -154,7 +154,7 @@
     "icon": "HorsemanAtlas_256"
   },
   {
-    "name": "Away Cavalry",
+    "name": "Cavalry",
     "unitType": "Cavalry",
     "movement": 5,
     "strength": 42,
@@ -200,7 +200,7 @@
     "icon": "CatapultAtlas_256"
   },
   {
-    "name": "Great Prophet",
+    "name": "Great Merchant",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 110,
@@ -225,7 +225,7 @@
     "icon": "SwordmanAtlas_256"
   },
   {
-    "name": "Great Writer",
+    "name": "Great Scientist",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 120,
@@ -236,7 +236,7 @@
     "icon": "SettlerAtlas_256"
   },
   {
-    "name": "Artist",
+    "name": "Great General",
     "unitType": "Civilian",
     "movement": 2,
     "uniques": [

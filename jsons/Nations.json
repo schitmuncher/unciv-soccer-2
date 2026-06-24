@@ -90,7 +90,7 @@
     "uniqueName": "The Howe Effect",
     "uniques": [
       "[+10]% growth [in all cities]",
-      "[+15]% Production when building [Land] units"
+      "[+15]% Production when building [Land] units [in all cities]"
     ],
     "cities": [
       "Vitality Stadium",
@@ -463,7 +463,7 @@
     "uniqueName": "Theatre of Dreams",
     "uniques": [
       "[+25]% [Culture] [in capital]",
-      "[+15]% Production when building wonders"
+      "[+15]% Production when building wonders [in all cities]"
     ],
     "cities": [
       "Old Trafford",
@@ -597,7 +597,7 @@
     "preferredVictoryType": "Cultural",
     "uniqueName": "Spursy",
     "uniques": [
-      "[+20]% Production when building [Land] units",
+      "[+20]% Production when building [Land] units [in all cities]",
       "[+15]% [Science] [in capital]"
     ],
     "cities": [
