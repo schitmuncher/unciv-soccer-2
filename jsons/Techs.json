@@ -145,11 +145,11 @@
   },
   {
     "columnNumber": 5,
-    "era": "Football League",
+    "era": "Non-League",
     "techs": [
       {
         "name": "Foreign Scouting",
-        "cost": 105,
+        "cost": 195,
         "row": 1,
         "prerequisites": [
           "Transfer Window"
@@ -158,7 +158,7 @@
       },
       {
         "name": "Set-Piece Routines",
-        "cost": 105,
+        "cost": 195,
         "row": 2,
         "prerequisites": [
           "Park the Bus"
@@ -167,7 +167,7 @@
       },
       {
         "name": "Sports Medicine",
-        "cost": 105,
+        "cost": 195,
         "row": 3,
         "prerequisites": [
           "Firm Organization"
@@ -178,11 +178,11 @@
   },
   {
     "columnNumber": 6,
-    "era": "Football League",
+    "era": "Non-League",
     "techs": [
       {
         "name": "Media Rights",
-        "cost": 125,
+        "cost": 210,
         "row": 1,
         "prerequisites": [
           "Foreign Scouting"
@@ -191,7 +191,7 @@
       },
       {
         "name": "Tactical Analysis",
-        "cost": 125,
+        "cost": 210,
         "row": 2,
         "prerequisites": [
           "Set-Piece Routines"
@@ -200,7 +200,7 @@
       },
       {
         "name": "Firm Unification",
-        "cost": 125,
+        "cost": 210,
         "row": 3,
         "prerequisites": [
           "Sports Medicine"
@@ -211,11 +211,11 @@
   },
   {
     "columnNumber": 7,
-    "era": "Football League",
+    "era": "Non-League",
     "techs": [
       {
         "name": "Tactical Periodization",
-        "cost": 145,
+        "cost": 225,
         "row": 1,
         "prerequisites": [
           "Media Rights"
@@ -224,7 +224,7 @@
       },
       {
         "name": "Ultras Integration",
-        "cost": 145,
+        "cost": 225,
         "row": 2,
         "prerequisites": [
           "Tactical Analysis"
@@ -233,7 +233,7 @@
       },
       {
         "name": "Fan Engagement",
-        "cost": 145,
+        "cost": 225,
         "row": 3,
         "prerequisites": [
           "Firm Unification"
@@ -244,11 +244,11 @@
   },
   {
     "columnNumber": 8,
-    "era": "Football League",
+    "era": "Non-League",
     "techs": [
       {
         "name": "Semi-Professional Development",
-        "cost": 165,
+        "cost": 240,
         "row": 1,
         "prerequisites": [
           "Tactical Periodization"
@@ -257,7 +257,7 @@
       },
       {
         "name": "Advanced Ballistics",
-        "cost": 165,
+        "cost": 240,
         "row": 2,
         "prerequisites": [
           "Ultras Integration"
@@ -266,7 +266,7 @@
       },
       {
         "name": "Missile Deployment",
-        "cost": 165,
+        "cost": 240,
         "row": 3,
         "prerequisites": [
           "Fan Engagement"

@@ -393,14 +393,11 @@
     "name": "Sports Recovery Center",
     "gold": 2,
     "happiness": 1,
-    "science": 1,
+    "science": 2,
     "cost": 120,
     "maintenance": 1,
     "requiredTech": "Sports Medicine",
-    "icon": "BuildingAtlas_256",
-    "uniques": [
-      "All adjacent units heal [+10] HP when healing"
-    ]
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Broadcasting Booth",
