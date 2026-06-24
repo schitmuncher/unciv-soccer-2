@@ -1,0 +1,426 @@
+[
+  {
+    "name": "Palace",
+    "production": 2,
+    "science": 2,
+    "gold": 2,
+    "culture": 1,
+    "happiness": 2,
+    "cityStrength": 2.5,
+    "cost": 0,
+    "uniques": [
+      "Indicates the capital city"
+    ],
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Dodgy Burger Van",
+    "food": 2,
+    "gold": 1,
+    "cost": 40,
+    "maintenance": 1,
+    "requiredTech": "Sunday League",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Local Boozer",
+    "culture": 1,
+    "happiness": 2,
+    "cost": 60,
+    "maintenance": 1,
+    "requiredTech": "Pub Meetups",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Training Pitch",
+    "production": 1,
+    "cost": 80,
+    "maintenance": 1,
+    "requiredTech": "Basic Drills",
+    "uniques": [
+      "New [Military] units start with [15] XP [in this city]"
+    ],
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Club Shop",
+    "gold": 3,
+    "cost": 100,
+    "maintenance": 1,
+    "requiredTech": "Local Sponsorships",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Terraced End",
+    "culture": 2,
+    "happiness": 1,
+    "cityStrength": 2,
+    "cost": 100,
+    "maintenance": 1,
+    "requiredTech": "Away Days",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Hospitality Box",
+    "gold": 4,
+    "happiness": 1,
+    "cost": 150,
+    "maintenance": 2,
+    "requiredTech": "Corporate Hospitality",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "VAR Room",
+    "science": 3,
+    "cost": 160,
+    "maintenance": 2,
+    "requiredTech": "Offside Trap",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Youth Academy",
+    "culture": 2,
+    "production": 1,
+    "cost": 170,
+    "maintenance": 2,
+    "requiredTech": "Pro Coaching",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Transfer Department",
+    "gold": 5,
+    "science": 1,
+    "cost": 210,
+    "maintenance": 2,
+    "requiredTech": "Transfer Window",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Broadcast Studio",
+    "gold": 3,
+    "science": 3,
+    "cost": 240,
+    "maintenance": 3,
+    "requiredTech": "Broadcast Rights",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Ultra Wall",
+    "happiness": 2,
+    "cityStrength": 4,
+    "cost": 240,
+    "maintenance": 2,
+    "requiredTech": "Stadium Hostility",
+    "uniques": [
+      "[+33]% Strength for cities <when defending>"
+    ],
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "State-of-the-Art Academy",
+    "science": 3,
+    "culture": 4,
+    "production": 2,
+    "cost": 340,
+    "maintenance": 3,
+    "requiredTech": "Elite Academies",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Security Office",
+    "happiness": 2,
+    "cityStrength": 6,
+    "cost": 320,
+    "maintenance": 3,
+    "requiredTech": "Security Theatre",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "The FA Cup",
+    "isWonder": true,
+    "culture": 4,
+    "faith": 4,
+    "happiness": 4,
+    "cost": 300,
+    "requiredTech": "Away Days",
+    "icon": "WonderAtlas_256"
+  },
+  {
+    "name": "The Invincibles Trophy",
+    "isWonder": true,
+    "culture": 3,
+    "happiness": 3,
+    "cost": 550,
+    "requiredTech": "Total Football",
+    "uniques": [
+      "[+15]% Strength <for [All] units>"
+    ],
+    "icon": "WonderAtlas_256"
+  },
+  {
+    "name": "Apollo Program",
+    "cost": 750,
+    "isNationalWonder": true,
+    "requiredTech": "Oil State Takeover",
+    "uniques": [
+      "Enables construction of Spaceship parts",
+      "Triggers a global alert upon completion",
+      "Only available <when [Scientific] Victory is enabled>",
+      "Cannot be hurried"
+    ],
+    "icon": "WonderAtlas_256"
+  },
+  {
+    "name": "Spaceship Factory",
+    "production": 3,
+    "maintenance": 3,
+    "cost": 360,
+    "requiredTech": "Multi-Club Model",
+    "uniques": [
+      "[+50]% Production when constructing [Spaceship part] units [in this city]"
+    ],
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Utopia Project",
+    "cost": 1500,
+    "isNationalWonder": true,
+    "requiredTech": "Global Franchise",
+    "uniques": [
+      "Unavailable <when number of [Completed Policy branches] is less than [5]>",
+      "Triggers a global alert upon build start",
+      "Triggers a Cultural Victory upon completion",
+      "Only available <when [Cultural] Victory is enabled>",
+      "Cannot be hurried"
+    ],
+    "icon": "WonderAtlas_256"
+  },
+  {
+    "name": "Medical Center",
+    "gold": 1,
+    "maintenance": 1,
+    "science": 1,
+    "requiredTech": "Sports Science",
+    "icon": "BuildingAtlas_256",
+    "cost": 130
+  },
+  {
+    "name": "Analytics Office",
+    "science": 4,
+    "gold": 1,
+    "cost": 250,
+    "maintenance": 2,
+    "requiredTech": "Analytics Department",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+15]% [Science] [in this city]"
+    ]
+  },
+  {
+    "name": "Tactical War Room",
+    "science": 2,
+    "production": 1,
+    "cost": 150,
+    "maintenance": 1,
+    "requiredTech": "Set-Piece Laboratories",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "New [Military] units start with [35] XP [in this city]"
+    ]
+  },
+  {
+    "name": "Museum of Legends",
+    "culture": 5,
+    "happiness": 2,
+    "cost": 200,
+    "maintenance": 1,
+    "requiredTech": "Global Branding",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+25]% [Culture] [in this city]"
+    ]
+  },
+  {
+    "name": "Broadcasting Studio",
+    "gold": 3,
+    "culture": 2,
+    "cost": 120,
+    "maintenance": 1,
+    "requiredTech": "Broadcast Rights",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Youth Development Center",
+    "production": 2,
+    "science": 1,
+    "happiness": 1,
+    "cost": 180,
+    "maintenance": 1,
+    "requiredTech": "Elite Academies",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+25]% Great Person generation [in this city]",
+      "New [Civilian] units start with [5] XP [in this city]"
+    ]
+  },
+  {
+    "name": "Sponsorship Office",
+    "gold": 6,
+    "cost": 140,
+    "maintenance": 2,
+    "requiredTech": "Corporate Hospitality",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+30]% [Gold] from Trade Routes"
+    ]
+  },
+  {
+    "name": "Elite Coaching Staff",
+    "science": 3,
+    "production": 1,
+    "cost": 200,
+    "maintenance": 2,
+    "requiredTech": "Pro Coaching",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "New [Military] units start with [20] XP [in this city]",
+      "[+10]% Production when building [Land] units [in this city]"
+    ]
+  },
+  {
+    "name": "Merchandise Factory",
+    "gold": 4,
+    "production": 2,
+    "cost": 160,
+    "maintenance": 1,
+    "requiredTech": "Shirt Sales",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Media Center",
+    "culture": 3,
+    "gold": 2,
+    "cost": 130,
+    "maintenance": 1,
+    "requiredTech": "Global Branding",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+20]% [Culture] [in this city]"
+    ]
+  },
+  {
+    "name": "Stadium Hospitality Suite",
+    "happiness": 3,
+    "gold": 4,
+    "cost": 170,
+    "maintenance": 2,
+    "requiredTech": "Hospitality Suites",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+30]% [Gold] [in this city]"
+    ]
+  },
+  {
+    "name": "Training Grounds Expansion",
+    "production": 3,
+    "cost": 100,
+    "maintenance": 1,
+    "requiredTech": "Basic Drills",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+15]% Production when building [Land] units [in this city]"
+    ]
+  },
+  {
+    "name": "Scouting Lodge",
+    "production": 1,
+    "science": 2,
+    "cost": 90,
+    "maintenance": 1,
+    "requiredTech": "Scouting Network",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "New [Military] units start with [15] XP [in this city]"
+    ]
+  },
+  {
+    "name": "Stadium Security",
+    "happiness": 1,
+    "cityStrength": 3,
+    "cost": 110,
+    "maintenance": 1,
+    "requiredTech": "Security Theatre",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+25]% Strength <for [All] units> <when defending>"
+    ]
+  },
+  {
+    "name": "Ultra Support Center",
+    "culture": 3,
+    "happiness": 2,
+    "cost": 150,
+    "maintenance": 1,
+    "requiredTech": "Ultra Coordination",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Scout Office",
+    "production": 2,
+    "science": 1,
+    "gold": 1,
+    "cost": 95,
+    "maintenance": 1,
+    "requiredTech": "Foreign Scouting",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+15]% [Gold] from Trade Routes"
+    ]
+  },
+  {
+    "name": "Set-Piece Academy",
+    "science": 2,
+    "production": 1,
+    "cost": 110,
+    "maintenance": 1,
+    "requiredTech": "Set-Piece Routines",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "New [Military] units start with [25] XP [in this city]"
+    ]
+  },
+  {
+    "name": "Sports Recovery Center",
+    "gold": 2,
+    "happiness": 1,
+    "science": 2,
+    "cost": 120,
+    "maintenance": 1,
+    "requiredTech": "Sports Medicine",
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Broadcasting Booth",
+    "gold": 2,
+    "culture": 2,
+    "cost": 105,
+    "maintenance": 1,
+    "requiredTech": "Media Rights",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+20]% [Gold] [in this city]"
+    ]
+  },
+  {
+    "name": "Analysis Lab",
+    "science": 3,
+    "production": 1,
+    "cost": 135,
+    "maintenance": 2,
+    "requiredTech": "Tactical Analysis",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+15]% [Science] [in this city]"
+    ]
+  }
+]

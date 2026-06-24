@@ -1,0 +1,634 @@
+[
+  {
+    "name": "Matchday Traditions",
+    "era": "Grassroots",
+    "priorities": {
+      "Neutral": 0,
+      "Cultural": 20,
+      "Diplomatic": 0,
+      "Domination": 0,
+      "Scientific": 5
+    },
+    "uniques": [
+      "[+10]% [Culture] [in capital]",
+      "[-25]% Culture cost of natural border growth [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "Club Colours",
+        "uniques": [
+          "[+5]% [Happiness] [in all cities]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Banner Wall",
+        "uniques": [
+          "[+15]% Production when building wonders [in all cities]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Inherited Songs",
+        "uniques": [
+          "[+10]% [Food] [in capital]"
+        ],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "Banner Wall"
+        ]
+      },
+      {
+        "name": "Full Terrace",
+        "uniques": [
+          "[+5]% [Gold] [in capital]",
+          "[+5]% [Happiness] [in capital]"
+        ],
+        "row": 2,
+        "column": 4,
+        "requires": [
+          "Banner Wall"
+        ]
+      },
+      {
+        "name": "Matchday Traditions Complete",
+        "uniques": [
+          "[+15]% growth [in all cities]",
+          "[+10]% [Food] [in all cities]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Youth Academy Focus",
+    "era": "Grassroots",
+    "priorities": {
+      "Neutral": 10,
+      "Cultural": 10,
+      "Diplomatic": 10,
+      "Domination": 10,
+      "Scientific": 20
+    },
+    "uniques": [
+      "[+5]% [Production] [in all cities]",
+      "[+5]% growth [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "Schoolboy Intake",
+        "uniques": [
+          "[+10]% growth [in capital]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Five-a-Side Courts",
+        "uniques": [
+          "[+5]% [Culture] [in all cities]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Scholarship Pathway",
+        "requires": [
+          "Five-a-Side Courts"
+        ],
+        "uniques": [
+          "[+5]% [Science] [in all cities]",
+          "[+10]% [Science] [in capital]"
+        ],
+        "row": 2,
+        "column": 2
+      },
+      {
+        "name": "Reserve Team Minutes",
+        "requires": [
+          "Schoolboy Intake"
+        ],
+        "uniques": [
+          "[+25]% XP gained from combat <for [Military] units>",
+          "[+15]% growth [in all cities]"
+        ],
+        "row": 2,
+        "column": 4
+      },
+      {
+        "name": "Youth Academy Focus Complete",
+        "requires": [
+          "Scholarship Pathway",
+          "Reserve Team Minutes"
+        ],
+        "uniques": [
+          "[+10]% [Science] [in all cities]",
+          "[+5]% [Food] [in all cities]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Commercial Empire",
+    "era": "Non-League",
+    "priorities": {
+      "Neutral": 10,
+      "Cultural": 0,
+      "Diplomatic": 10,
+      "Domination": 0,
+      "Scientific": 25
+    },
+    "uniques": [
+      "[+5]% [Gold] [in all cities]",
+      "[-50]% Gold cost of acquiring tiles [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "Merch Tables",
+        "uniques": [
+          "[+5]% [Gold] [in capital]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Naming Rights",
+        "uniques": [
+          "[+5]% [Happiness] [in all cities]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Corporate Boxes",
+        "uniques": [
+          "[+10]% [Gold] [in capital]"
+        ],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "Naming Rights"
+        ]
+      },
+      {
+        "name": "Global Kit Sales",
+        "uniques": [
+          "[+5]% [Culture] [in all cities]"
+        ],
+        "row": 2,
+        "column": 4,
+        "requires": [
+          "Naming Rights"
+        ]
+      },
+      {
+        "name": "Commercial Empire Complete",
+        "uniques": [
+          "[+10]% [Gold] [in all cities]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terrace Mentality",
+    "era": "Football League",
+    "priorities": {
+      "Neutral": 0,
+      "Cultural": 10,
+      "Diplomatic": 0,
+      "Domination": 25,
+      "Scientific": 0
+    },
+    "uniques": [
+      "[+15]% XP gained from combat <for [Military] units>",
+      "[+5]% [Happiness] [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "Us and Them",
+        "uniques": [
+          "[+15]% Strength <for [All] units>"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Mob Rules",
+        "uniques": [
+          "[+10]% Production when building [Land] units [in all cities]",
+          "[+10]% Strength <when defending> <for [All] units>"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Pillage the Away End",
+        "requires": [
+          "Mob Rules"
+        ],
+        "uniques": [
+          "Earn [50]% of killed [Military] unit's [Cost] as [Gold]"
+        ],
+        "row": 2,
+        "column": 2
+      },
+      {
+        "name": "No Surrender",
+        "requires": [
+          "Us and Them"
+        ],
+        "uniques": [
+          "[+20]% Strength <when defending> <for [All] units>",
+          "[+15]% Strength <when attacking>"
+        ],
+        "row": 2,
+        "column": 4
+      },
+      {
+        "name": "Terrace Mentality Complete",
+        "requires": [
+          "Pillage the Away End",
+          "No Surrender"
+        ],
+        "uniques": [
+          "[+25]% Strength <for [All] units>",
+          "[+5]% [Production] [in all cities]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sugar Daddy Takeover",
+    "era": "Premier Era",
+    "priorities": {
+      "Neutral": 0,
+      "Cultural": 0,
+      "Diplomatic": 10,
+      "Domination": 10,
+      "Scientific": 30
+    },
+    "uniques": [
+      "[+10]% [Gold] [in capital]",
+      "[+5]% [Happiness] [in capital]"
+    ],
+    "policies": [
+      {
+        "name": "Sovereign Wealth Injection",
+        "uniques": [
+          "[+15]% [Gold] [in capital]",
+          "[+5]% [Gold] [in all cities]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Wage Bill Explosion",
+        "uniques": [
+          "[+15]% Production when building [Land] units [in all cities]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Buy the Title",
+        "requires": [
+          "Wage Bill Explosion"
+        ],
+        "uniques": [
+          "[+25]% [Gold] [in capital]",
+          "[+25]% [Gold] from Trade Routes"
+        ],
+        "row": 2,
+        "column": 2
+      },
+      {
+        "name": "Sports Wash PR",
+        "requires": [
+          "Sovereign Wealth Injection"
+        ],
+        "uniques": [
+          "[+10]% [Happiness] [in all cities]",
+          "[+10]% [Culture] [in capital]"
+        ],
+        "row": 2,
+        "column": 4
+      },
+      {
+        "name": "Sugar Daddy Takeover Complete",
+        "requires": [
+          "Buy the Title",
+          "Sports Wash PR"
+        ],
+        "uniques": [
+          "[+15]% [Gold] [in all cities]",
+          "[+10]% [Happiness] [in all cities]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tactical Innovation",
+    "era": "Football League",
+    "priorities": {
+      "Neutral": 20,
+      "Cultural": 5,
+      "Diplomatic": 0,
+      "Domination": 15,
+      "Scientific": 25
+    },
+    "uniques": [
+      "[+10]% [Science] [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "Formation Study",
+        "uniques": [
+          "[+5]% [Science] [in capital]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Video Analysis",
+        "uniques": [
+          "[+15]% [Science] [in all cities]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Set-Piece Mastery",
+        "uniques": [
+          "[+20]% Production when building [Land] units [in all cities]"
+        ],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "Formation Study"
+        ]
+      },
+      {
+        "name": "Counter-Attack Drills",
+        "uniques": [
+          "[+10]% Strength <for [All] units> <when defending>"
+        ],
+        "row": 2,
+        "column": 4,
+        "requires": [
+          "Video Analysis"
+        ]
+      },
+      {
+        "name": "Tactical Innovation Complete",
+        "uniques": [
+          "[+10]% [Science] [in all cities]",
+          "[+10]% Strength <for [All] units>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "International Ambition",
+    "era": "Premier Era",
+    "priorities": {
+      "Neutral": 5,
+      "Cultural": 15,
+      "Diplomatic": 25,
+      "Domination": 5,
+      "Scientific": 15
+    },
+    "uniques": [
+      "[+15]% [Gold] from Trade Routes",
+      "[+5]% [Culture] [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "European Tour",
+        "uniques": [
+          "[+5]% [Culture] [in all cities]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Continental Sponsorships",
+        "uniques": [
+          "[+10]% [Gold] from Trade Routes"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "International Players",
+        "uniques": [],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "European Tour"
+        ]
+      },
+      {
+        "name": "Global Merchandise",
+        "uniques": [
+          "[+20]% [Gold] [in all cities]"
+        ],
+        "row": 2,
+        "column": 4,
+        "requires": [
+          "Continental Sponsorships"
+        ]
+      },
+      {
+        "name": "International Ambition Complete",
+        "uniques": [
+          "[+15]% [Gold] from Trade Routes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Community Roots",
+    "era": "Grassroots",
+    "priorities": {
+      "Neutral": 15,
+      "Cultural": 25,
+      "Diplomatic": 15,
+      "Domination": 0,
+      "Scientific": 5
+    },
+    "uniques": [
+      "[+15]% [Happiness] [in all cities]",
+      "[+5]% [Culture] [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "Free Entry Days",
+        "uniques": [
+          "[+10]% [Happiness] [in capital]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Local Community Programs",
+        "uniques": [
+          "[+5]% [Culture] [in all cities]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Charity Matches",
+        "uniques": [
+          "[+5]% [Happiness] [in all cities]",
+          "[+5]% [Culture] [in all cities]"
+        ],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "Free Entry Days"
+        ]
+      },
+      {
+        "name": "Fan Engagement",
+        "uniques": [
+          "[+10]% [Happiness] [in all cities]"
+        ],
+        "row": 2,
+        "column": 4,
+        "requires": [
+          "Local Community Programs"
+        ]
+      },
+      {
+        "name": "Community Roots Complete",
+        "uniques": [
+          "[+20]% [Happiness] [in all cities]",
+          "[+10]% [Culture] [in all cities]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Financial Fair Play",
+    "era": "Premier Era",
+    "priorities": {
+      "Neutral": 10,
+      "Cultural": 5,
+      "Diplomatic": 25,
+      "Domination": 0,
+      "Scientific": 10
+    },
+    "uniques": [
+      "[+15]% [Gold] [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "Salary Cap Regulation",
+        "uniques": [
+          "[+10]% [Gold] [in all cities]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Revenue Sharing",
+        "uniques": [
+          "[+5]% [Gold] from Trade Routes"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Balanced Budget",
+        "uniques": [
+          "[+10]% [Gold] [in all cities]"
+        ],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "Salary Cap Regulation"
+        ]
+      },
+      {
+        "name": "Transparency Protocol",
+        "uniques": [],
+        "row": 2,
+        "column": 4,
+        "requires": [
+          "Revenue Sharing"
+        ]
+      },
+      {
+        "name": "Financial Fair Play Complete",
+        "uniques": [
+          "[+20]% [Gold] [in all cities]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stadium Legacy",
+    "era": "Football League",
+    "priorities": {
+      "Neutral": 15,
+      "Cultural": 25,
+      "Diplomatic": 10,
+      "Domination": 0,
+      "Scientific": 5
+    },
+    "uniques": [
+      "[+20]% [Culture] [in all cities]",
+      "[+15]% [Culture] [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "Historic Ground Preservation",
+        "uniques": [
+          "[+10]% [Culture] [in capital]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Stadium Monument",
+        "uniques": [
+          "[+15]% [Culture] [in capital]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Capacity Expansion",
+        "uniques": [
+          "[+10]% [Production] [in capital]",
+          "[+5]% [Happiness] [in all cities]"
+        ],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "Historic Ground Preservation"
+        ]
+      },
+      {
+        "name": "Iconic Moments Exhibition",
+        "uniques": [
+          "[+20]% [Culture] [in capital]"
+        ],
+        "row": 2,
+        "column": 4,
+        "requires": [
+          "Stadium Monument"
+        ]
+      },
+      {
+        "name": "Stadium Legacy Complete",
+        "uniques": [
+          "[+25]% [Culture] [in all cities]"
+        ]
+      }
+    ]
+  }
+]

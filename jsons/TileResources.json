@@ -1,0 +1,179 @@
+[
+  {
+    "name": "Local Talent",
+    "resourceType": "Strategic",
+    "production": 2,
+    "icon": "ResourceAtlas_256"
+  },
+  {
+    "name": "Foreign Investors",
+    "resourceType": "Strategic",
+    "gold": 3,
+    "production": 1,
+    "icon": "ResourceAtlas_256"
+  },
+  {
+    "name": "Pitch Quality",
+    "resourceType": "Strategic",
+    "production": 1,
+    "icon": "ResourceAtlas_256"
+  },
+  {
+    "name": "Players",
+    "resourceType": "Strategic",
+    "production": 2,
+    "icon": "ResourceAtlas_256"
+  },
+  {
+    "name": "Stadium Capacity",
+    "resourceType": "Strategic",
+    "production": 1,
+    "icon": "ResourceAtlas_256"
+  },
+  {
+    "name": "TV Rights",
+    "resourceType": "Strategic",
+    "gold": 3,
+    "production": 1,
+    "icon": "ResourceAtlas_256"
+  },
+  {
+    "name": "Elite Training Academy",
+    "resourceType": "Strategic",
+    "science": 2,
+    "production": 1,
+    "icon": "ResourceAtlas_256"
+  },
+  {
+    "name": "Tactical Database",
+    "resourceType": "Strategic",
+    "science": 1,
+    "gold": 1,
+    "icon": "ResourceAtlas_256"
+  },
+  {
+    "name": "Craft Beer",
+    "resourceType": "Luxury",
+    "happiness": 3,
+    "gold": 2,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Prawn Sandwiches",
+    "resourceType": "Luxury",
+    "happiness": 3,
+    "gold": 3,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Vintage Kits",
+    "resourceType": "Luxury",
+    "happiness": 3,
+    "culture": 3,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Sponsorship Deal",
+    "resourceType": "Luxury",
+    "gold": 5,
+    "happiness": 2,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Training Facilities",
+    "resourceType": "Luxury",
+    "production": 2,
+    "happiness": 1,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Fan Merchandise",
+    "resourceType": "Luxury",
+    "gold": 4,
+    "culture": 1,
+    "happiness": 2,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Historic Trophy",
+    "resourceType": "Luxury",
+    "culture": 3,
+    "happiness": 3,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Media Hype",
+    "resourceType": "Luxury",
+    "culture": 2,
+    "gold": 2,
+    "happiness": 2,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Terraced Stands",
+    "resourceType": "Luxury",
+    "culture": 1,
+    "happiness": 2,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Championship Pedigree",
+    "resourceType": "Luxury",
+    "culture": 4,
+    "happiness": 3,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Winning Mentality",
+    "resourceType": "Luxury",
+    "gold": 3,
+    "happiness": 2,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Community Support",
+    "resourceType": "Luxury",
+    "happiness": 4,
+    "culture": 1,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Elite Scouting Network",
+    "resourceType": "Luxury",
+    "science": 1,
+    "gold": 2,
+    "production": 1,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Club Prestige",
+    "resourceType": "Luxury",
+    "culture": 2,
+    "gold": 3,
+    "happiness": 2,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "Passionate Fanbase",
+    "resourceType": "Luxury",
+    "culture": 3,
+    "happiness": 3,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "State-of-the-Art Facilities",
+    "resourceType": "Luxury",
+    "production": 2,
+    "science": 1,
+    "happiness": 1,
+    "icon": "LuxuryResourceAtlas_256"
+  },
+  {
+    "name": "International Reputation",
+    "resourceType": "Luxury",
+    "gold": 4,
+    "culture": 2,
+    "happiness": 2,
+    "icon": "LuxuryResourceAtlas_256"
+  }
+]

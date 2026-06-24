@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Grassroots",
+    "startingTechs": [
+      "Sunday League"
+    ],
+    "startingSettlerUnit": "Settler",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Worker",
+    "startingMilitaryUnit": "Scout",
+    "startPercent": 0,
+    "uniques": [],
+    "icon": "EraAtlas_256"
+  },
+  {
+    "name": "Non-League",
+    "startingTechs": [
+      "Sunday League",
+      "Local Sponsorships",
+      "Basic Drills",
+      "Pub Meetups"
+    ],
+    "startingSettlerUnit": "Settler",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Worker",
+    "startingMilitaryUnit": "Warrior",
+    "startPercent": 20,
+    "uniques": [],
+    "icon": "EraAtlas_256"
+  },
+  {
+    "name": "Football League",
+    "startingTechs": [
+      "Sunday League",
+      "Kit Deals",
+      "Pro Coaching",
+      "Away Days",
+      "Corporate Hospitality",
+      "Offside Trap",
+      "Pyro Culture"
+    ],
+    "startingSettlerUnit": "Settler",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Worker",
+    "startingMilitaryUnit": "Swordsman",
+    "startPercent": 40,
+    "uniques": [],
+    "icon": "EraAtlas_256"
+  },
+  {
+    "name": "Premier Era",
+    "startingTechs": [
+      "Sunday League",
+      "Kit Deals",
+      "Pro Coaching",
+      "Away Days",
+      "Corporate Hospitality",
+      "Offside Trap",
+      "Pyro Culture",
+      "Transfer Window",
+      "Park the Bus",
+      "Firm Organization",
+      "Broadcast Rights",
+      "Set-Piece Laboratories",
+      "Stadium Hostility"
+    ],
+    "startingSettlerUnit": "Settler",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Worker",
+    "startingMilitaryUnit": "Longswordsman",
+    "startPercent": 65,
+    "uniques": [],
+    "icon": "EraAtlas_256"
+  },
+  {
+    "name": "Super League",
+    "startingTechs": [
+      "Sunday League",
+      "Kit Deals",
+      "Pro Coaching",
+      "Away Days",
+      "Corporate Hospitality",
+      "Offside Trap",
+      "Pyro Culture",
+      "Transfer Window",
+      "Park the Bus",
+      "Firm Organization",
+      "Broadcast Rights",
+      "Set-Piece Laboratories",
+      "Stadium Hostility",
+      "Global Branding",
+      "Gegenpressing",
+      "Ultra Coordination",
+      "Hospitality Suites",
+      "Total Football",
+      "Matchday Choreography",
+      "Oil State Takeover",
+      "Elite Academies",
+      "Security Theatre"
+    ],
+    "startingSettlerUnit": "Settler",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Worker",
+    "startingMilitaryUnit": "Musketman",
+    "startPercent": 85,
+    "uniques": [],
+    "icon": "EraAtlas_256"
+  }
+]

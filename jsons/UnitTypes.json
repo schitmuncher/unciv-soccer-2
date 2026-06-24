@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Melee",
+    "movementType": "Land"
+  },
+  {
+    "name": "Civilian",
+    "movementType": "Land"
+  },
+  {
+    "name": "Scout",
+    "movementType": "Land"
+  },
+  {
+    "name": "Ranged",
+    "movementType": "Land"
+  },
+  {
+    "name": "Cavalry",
+    "movementType": "Land"
+  },
+  {
+    "name": "Siege",
+    "movementType": "Land"
+  }
+]

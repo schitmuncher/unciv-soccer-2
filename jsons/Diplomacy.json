@@ -1,0 +1,74 @@
+[
+  {
+    "name": "First greeting",
+    "text": [
+      "Ah, the new gaffer. Let's see if you survive until Christmas.",
+      "Welcome to the league. Keep your lads off my training pitch.",
+      "Fresh face, eh? Don't get in my way.",
+      "Alright, boss. Ready to make some noise?"
+    ]
+  },
+  {
+    "name": "Greeting friendly",
+    "text": [
+      "Alright gaffer! Good to see you.",
+      "Always a pleasure. Your lads played beautiful stuff at the weekend.",
+      "Great to see you, mate. Let's build something special.",
+      "Good on ya. Your tactics are getting sharper by the day."
+    ]
+  },
+  {
+    "name": "Greeting neutral",
+    "text": [
+      "Make it quick, I've got a training session in ten minutes.",
+      "What do you want? Speak your mind and leave.",
+      "Not in the mood for small talk today, boss.",
+      "Right then, what's on your mind?"
+    ]
+  },
+  {
+    "name": "Greeting hostile",
+    "text": [
+      "Look who it is. Don't expect to take any points off us.",
+      "The fans hate you, the board hates you, and I'm not your biggest fan either.",
+      "Your lot couldn't organize a proper kickabout at the pub.",
+      "We'll tear you apart when we meet. Mark my words."
+    ]
+  },
+  {
+    "name": "Trade accepted",
+    "text": [
+      "The paperwork is signed. Good piece of business.",
+      "We accept. Pleasure doing business with you.",
+      "Right then, we've got ourselves a deal.",
+      "Cheers for that. Fair trade between fair competitors."
+    ]
+  },
+  {
+    "name": "Trade rejected",
+    "text": [
+      "Are you taking the piss? You couldn't buy my kitman with that offer.",
+      "My board would sack me if I accepted this. Try again.",
+      "That's an insult to my intelligence, that is.",
+      "Not a chance, mate. That's a rubbish deal."
+    ]
+  },
+  {
+    "name": "Declaring war",
+    "text": [
+      "The gloves are off. The firm's mobilized, and we're taking your stadium apart!",
+      "We are here to embarrass you in front of your own fans!",
+      "Time to settle this on the pitch. Prepare yourself.",
+      "It's on now. We're coming for you with everything we've got!"
+    ]
+  },
+  {
+    "name": "Defeated",
+    "text": [
+      "Sacked in the morning... We've gone into administration, and it's your fault.",
+      "You didn't beat me tactically, you bought the league! Disgraceful!",
+      "This isn't over. We'll be back stronger.",
+      "Fair play, but next season's ours."
+    ]
+  }
+]

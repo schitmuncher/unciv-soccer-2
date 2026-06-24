@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Total Football Doctrine",
+    "type": "Follower",
+    "uniques": [
+      "[+10]% [Science] [in all cities]",
+      "[+5]% [Culture] [in all cities]",
+      "New [Military] units start with [15] XP [in this city]"
+    ],
+    "icon": "ReligionIcon"
+  },
+  {
+    "name": "Defensive Wall Philosophy",
+    "type": "Follower",
+    "uniques": [
+      "[+5]% [Happiness] [in this city]"
+    ],
+    "icon": "ReligionIcon"
+  },
+  {
+    "name": "Counter-Attack Philosophy",
+    "type": "Follower",
+    "uniques": [
+      "[+5]% [Gold] [in all cities]"
+    ],
+    "icon": "ReligionIcon"
+  },
+  {
+    "name": "Possession Philosophy",
+    "type": "Follower",
+    "uniques": [
+      "[+20]% [Gold] [in this city]",
+      "[+5]% [Science] [in all cities]",
+      "[+15]% [Culture] [in this city]"
+    ],
+    "icon": "ReligionIcon"
+  },
+  {
+    "name": "4-3-3 Formation",
+    "type": "Follower",
+    "uniques": [
+      "[+5]% [Production] [in all cities]",
+      "[+5]% [Culture] [in all cities]"
+    ],
+    "icon": "ReligionIcon"
+  },
+  {
+    "name": "5-3-2 Formation",
+    "type": "Follower",
+    "uniques": [
+      "[+25]% Strength for cities <when defending>",
+      "[+10]% [Happiness] [in all cities]",
+      "New [Military] units start with [15] XP [in this city]"
+    ],
+    "icon": "ReligionIcon"
+  },
+  {
+    "name": "High-Pressure Philosophy",
+    "type": "Follower",
+    "uniques": [
+      "[+10]% [Production] [in this city]"
+    ],
+    "icon": "ReligionIcon"
+  },
+  {
+    "name": "Terrace Culture Belief",
+    "type": "Follower",
+    "uniques": [
+      "[+15]% [Culture] [in all cities]",
+      "[+10]% [Happiness] [in all cities]"
+    ],
+    "icon": "ReligionIcon"
+  },
+  {
+    "name": "Elite Academy Doctrine",
+    "type": "Follower",
+    "uniques": [
+      "[+25]% Great Person generation [in this city]",
+      "[+10]% [Science] [in all cities]",
+      "New [Military] units start with [15] XP [in this city]"
+    ],
+    "icon": "ReligionIcon"
+  },
+  {
+    "name": "Commercial Success Belief",
+    "type": "Follower",
+    "uniques": [
+      "[+20]% [Gold] [in this city]"
+    ],
+    "icon": "ReligionIcon"
+  }
+]

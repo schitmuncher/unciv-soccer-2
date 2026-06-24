@@ -1,0 +1,7 @@
+{
+  "modName": "Proper Football",
+  "isBaseRuleset": true,
+  "constants": {
+    "maxCityWorkRadius": 3
+  }
+}
