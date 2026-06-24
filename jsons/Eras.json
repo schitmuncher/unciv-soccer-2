@@ -101,7 +101,7 @@
     "startingSettlerUnit": "Settler",
     "startingWorkerCount": 1,
     "startingWorkerUnit": "Worker",
-    "startingMilitaryUnit": "Hero",
+    "startingMilitaryUnit": "Musketman",
     "startPercent": 85,
     "uniques": [],
     "icon": "EraAtlas_256"
